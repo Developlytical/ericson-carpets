@@ -2095,7 +2095,7 @@ i {
   margin: 0;
   padding: 16px 0;
   color: #f4f7fe;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   font-weight: 500;
 }
 
@@ -2513,6 +2513,7 @@ i {
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .ericson-hero-title {
     font-size: 70px;
+      max-width: 70%;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4945,6 +4946,7 @@ New CSS
 *************************************************************** */
 .ericson-get-free-img-area {
   height: 850px;
+    background-position: top center;
 }
 
 .mtm-310 {
