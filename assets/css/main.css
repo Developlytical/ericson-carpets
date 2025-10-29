@@ -1710,12 +1710,12 @@ i {
   display: inline-block;
 }
 
-.karx-pr-color {
+.ericson-pr-color {
   background: #1a213e;
 }
 
-.karx-hover-color {
-  color: #ff630e;
+.ericson-hover-color {
+  color: #C71116;
 }
 
 .heaer-costum-container {
@@ -1742,11 +1742,11 @@ i {
   }
 }
 
-.karx-header-area {
+.ericson-header-area {
   background: #1a213e;
 }
 
-.karx-logo-area {
+.ericson-logo-area {
   background: #fff;
   display: flex;
   justify-content: center;
@@ -1754,18 +1754,18 @@ i {
   height: calc(100% - 25px);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-logo-area {
+  .ericson-logo-area {
     border-top: 1px solid #e8e7e7;
   }
 }
 @media (max-width: 767px) {
-  .karx-logo-area {
+  .ericson-logo-area {
     justify-content: start;
     padding-left: 25px;
   }
 }
 
-.karx-top-header-text p {
+.ericson-top-header-text p {
   color: #ffffff;
   margin: 0;
   font-size: 16px;
@@ -1773,17 +1773,17 @@ i {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-top-header-area.pr-30.pl-30 {
+  .ericson-top-header-area.pr-30.pl-30 {
     padding-left: 0;
     padding-right: 0;
   }
 }
 
-.karx-top-header-text {
+.ericson-top-header-text {
   padding: 25px 0;
 }
 
-.karx-top-header-social-link p {
+.ericson-top-header-social-link p {
   color: #ffffff;
   font-size: 16px;
   margin: 0;
@@ -1792,14 +1792,14 @@ i {
   text-transform: capitalize;
 }
 @media (max-width: 767px) {
-  .karx-top-header-social-link p {
+  .ericson-top-header-social-link p {
     display: none;
   }
 }
-.karx-top-header-social-link .karx-social-link {
+.ericson-top-header-social-link .ericson-social-link {
   display: inline-block;
 }
-.karx-top-header-social-link .karx-social-link a {
+.ericson-top-header-social-link .ericson-social-link a {
   font-size: 16px;
   color: #ffffff;
   padding: 25px 15px;
@@ -1811,34 +1811,34 @@ i {
   display: inline-block;
 }
 @media (max-width: 767px) {
-  .karx-top-header-social-link .karx-social-link a {
+  .ericson-top-header-social-link .ericson-social-link a {
     padding-bottom: 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-top-header-social-link .karx-social-link a {
+  .ericson-top-header-social-link .ericson-social-link a {
     padding-bottom: 25px;
     padding-left: 0;
   }
 }
-.karx-top-header-social-link .karx-social-link a:hover {
-  color: #ff630e;
+.ericson-top-header-social-link .ericson-social-link a:hover {
+  color: #C71116;
 }
 
-.karx-logo {
+.ericson-logo {
   padding: 32px 0;
 }
 
-.karx-lan {
+.ericson-lan {
   padding: 35px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-lan {
+  .ericson-lan {
     padding: 10px 0;
   }
 }
 
-.side-extra-addition .karx-lan {
+.side-extra-addition .ericson-lan {
   padding: 15px 0;
 }
 
@@ -1866,7 +1866,7 @@ i {
   line-height: 50px;
 }
 .top-header-search-box .search-box a:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 .top-header-search-box .search-box .search-bar {
   background: none;
@@ -1886,7 +1886,7 @@ i {
   color: #ffffff;
 }
 
-.karx-lan-area {
+.ericson-lan-area {
   background: #ffffff;
   display: flex;
   justify-content: center;
@@ -1895,17 +1895,17 @@ i {
   width: 100%;
   height: calc(100% - 25px);
 }
-.karx-lan-area .karx-cart-icon {
+.ericson-lan-area .ericson-cart-icon {
   display: inline-block;
   font-size: 18px;
   color: #1a213e;
   position: relative;
   padding: 15px;
 }
-.karx-lan-area .karx-cart-icon:hover {
-  color: #ff630e;
+.ericson-lan-area .ericson-cart-icon:hover {
+  color: #C71116;
 }
-.karx-lan-area .karx-cart-icon::after {
+.ericson-lan-area .ericson-cart-icon::after {
   position: absolute;
   content: "0";
   background: linear-gradient(1deg, #fb2135, #f94b11);
@@ -1923,27 +1923,27 @@ i {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-.karx-lan-area .karx-cart-icon:hover::after {
-  background: #ff630e;
+.ericson-lan-area .ericson-cart-icon:hover::after {
+  background: #C71116;
 }
 
-.karx-main-header {
+.ericson-main-header {
   background-color: white;
   position: relative;
   z-index: 2;
 }
 
-.karx-main-menu ul {
+.ericson-main-menu ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-.karx-main-menu ul li {
+.ericson-main-menu ul li {
   display: inline-block;
   position: relative;
   z-index: 2;
 }
-.karx-main-menu ul li a {
+.ericson-main-menu ul li a {
   display: block;
   padding: 37px 25px;
   font-family: "Poppins", sans-serif;
@@ -1954,37 +1954,37 @@ i {
   text-align: start;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-main-menu ul li a {
+  .ericson-main-menu ul li a {
     padding: 37px 15px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-main-menu ul li a {
+  .ericson-main-menu ul li a {
     padding: 30px 20px;
   }
 }
-.karx-main-menu ul li a:hover {
-  background-color: #ff630e;
+.ericson-main-menu ul li a:hover {
+  background-color: #C71116;
   color: #fff;
 }
-.karx-main-menu ul li:hover ul.sub-menu {
+.ericson-main-menu ul li:hover ul.sub-menu {
   opacity: 1;
   visibility: visible;
   top: 100%;
 }
-.karx-main-menu ul li:hover ul.sub-menu li:hover ul.sub-menu {
+.ericson-main-menu ul li:hover ul.sub-menu li:hover ul.sub-menu {
   opacity: 1;
   visibility: visible;
   top: 0;
 }
-.karx-main-menu ul li ul.sub-menu ul.sub-menu {
+.ericson-main-menu ul li ul.sub-menu ul.sub-menu {
   left: 100%;
   top: 100%;
   opacity: 0;
   visibility: hidden;
   transition: 0.3s;
 }
-.karx-main-menu ul:is(.sub-menu) {
+.ericson-main-menu ul:is(.sub-menu) {
   position: absolute;
   left: 0;
   top: 130%;
@@ -1995,45 +1995,45 @@ i {
   -ms-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
-  border-top: 5px solid #ff630e;
+  border-top: 5px solid #C71116;
   opacity: 0;
   visibility: hidden;
 }
-.karx-main-menu ul:is(.sub-menu) li {
+.ericson-main-menu ul:is(.sub-menu) li {
   display: block;
 }
-.karx-main-menu ul:is(.sub-menu) li a {
+.ericson-main-menu ul:is(.sub-menu) li a {
   display: block;
   padding: 15px 30px;
   border-bottom: 1px solid #e9e9e9;
 }
-.karx-main-menu ul:is(.sub-menu) li:last-child a {
+.ericson-main-menu ul:is(.sub-menu) li:last-child a {
   border-bottom: 0;
 }
-.karx-main-menu ul > li:is(.has-dropdown-menu) > a {
+.ericson-main-menu ul > li:is(.has-dropdown-menu) > a {
   position: relative;
   z-index: 1;
 }
-.karx-main-menu ul > li:is(.has-dropdown-menu) > a:after {
+.ericson-main-menu ul > li:is(.has-dropdown-menu) > a:after {
   content: "\f067";
   font-family: "font awesome 5 pro";
   margin-left: 8px;
   font-size: 16px;
 }
-.karx-main-menu ul > li:is(.has-dropdown-menu):hover > a::after {
+.ericson-main-menu ul > li:is(.has-dropdown-menu):hover > a::after {
   content: "\f068";
 }
-.karx-main-menu ul > li:hover > a {
-  background-color: #ff630e;
+.ericson-main-menu ul > li:hover > a {
+  background-color: #C71116;
   color: #fff;
 }
 
-.karx-quote {
+.ericson-quote {
   height: 100%;
 }
-.karx-quote .quote-dropdown {
+.ericson-quote .quote-dropdown {
   color: #fff;
-  background-color: #ff630e;
+  background-color: #C71116;
   height: 100%;
   display: flex;
   align-items: center;
@@ -2043,26 +2043,33 @@ i {
   text-transform: capitalize;
   font-weight: 400;
 }
-.karx-quote .quote-dropdown i {
+.ericson-quote .quote-dropdown i {
   display: inline-block;
   margin-left: 5px;
   transition: 0.3s;
 }
-.karx-quote .quote-dropdown:hover {
+.ericson-quote .quote-dropdown:hover {
   background-color: #1a213e;
   color: #ffffff;
 }
-.karx-quote .quote-dropdown:hover i {
+.ericson-quote .quote-dropdown:hover i {
   display: inline-block;
   transform: translateX(5px);
 }
-.karx-quote-2 .quote-dropdown {
+.ericson-quote-2 .quote-dropdown {
   height: 80px;
   line-height: 80px;
   padding: 0 35px;
 }
+@media only screen and (max-width: 640px) {
+  .ericson-quote-2 .quote-dropdown {
+    line-height: 1;
+    text-align:center;
+    text-wrap: balance;
+  }
+}
 
-.nice-select.karx-lan-select {
+.nice-select.ericson-lan-select {
   float: none;
   display: inline-block;
   height: 50px;
@@ -2072,7 +2079,7 @@ i {
   padding: 0 15px;
   padding-right: 30px;
 }
-.nice-select.karx-lan-select::after {
+.nice-select.ericson-lan-select::after {
   border-bottom: 1px solid #707480;
   border-right: 1px solid #707480;
   width: 8px;
@@ -2080,11 +2087,11 @@ i {
   right: 15px;
 }
 
-.karx-top-header-area {
+.ericson-top-header-area {
   background-color: #1a213e;
 }
 
-.karx-top-header-common, .karx-top-address a, .karx-top-mail a, .karx-top-nember a, .karx-top-wlc-text p {
+.ericson-top-header-common, .ericson-top-address a, .ericson-top-mail a, .ericson-top-nember a, .ericson-top-wlc-text p {
   margin: 0;
   padding: 16px 0;
   color: #f4f7fe;
@@ -2092,68 +2099,68 @@ i {
   font-weight: 500;
 }
 
-.karx-top-wlc-text {
+.ericson-top-wlc-text {
   position: relative;
 }
-.karx-top-wlc-text p {
-  background: #ff630e;
+.ericson-top-wlc-text p {
+  background: #C71116;
 }
-.karx-top-wlc-text::after {
+.ericson-top-wlc-text::after {
   content: "";
   width: 100%;
   height: 100%;
-  background: #ff630e;
+  background: #C71116;
   top: 0;
   right: 99.99%;
   position: absolute;
 }
 @media (max-width: 767px) {
-  .karx-top-wlc-text::after {
+  .ericson-top-wlc-text::after {
     right: 0;
     z-index: -1;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-top-wlc-text::after {
+  .ericson-top-wlc-text::after {
     right: 99.99%;
     z-index: 1;
   }
 }
-.karx-top-wlc-text:is(.lh-30) p {
+.ericson-top-wlc-text:is(.lh-30) p {
   line-height: 30px;
 }
 
-.karx-top-nember a {
+.ericson-top-nember a {
   display: block;
 }
-.karx-top-nember a i {
+.ericson-top-nember a i {
   margin-right: 10px;
 }
-.karx-top-nember a:hover {
-  color: #ff630e;
+.ericson-top-nember a:hover {
+  color: #C71116;
 }
 
-.karx-top-mail a {
+.ericson-top-mail a {
   display: block;
 }
-.karx-top-mail a i {
+.ericson-top-mail a i {
   margin-right: 10px;
 }
-.karx-top-mail a:hover {
-  color: #ff630e;
+.ericson-top-mail a:hover {
+  color: #C71116;
 }
 
-.karx-top-address a {
+.ericson-top-address a {
   display: inline-block;
 }
-.karx-top-address a i {
+.ericson-top-address a i {
   margin-right: 15px;
 }
-.karx-top-address a:hover {
-  color: #ff630e;
+.ericson-top-address a:hover {
+  color: #C71116;
 }
 
-.nice-select.karx-top-lan {
+.nice-select.ericson-top-lan {
   font-size: 16px;
   background-color: transparent;
   border: 0;
@@ -2162,101 +2169,101 @@ i {
   line-height: 60px;
   font-weight: 500;
 }
-.nice-select.karx-top-lan:after {
+.nice-select.ericson-top-lan:after {
   right: 15px;
   border-bottom: 2px solid #fff;
   border-right: 2px solid #fff;
   width: 8px;
   height: 8px;
 }
-.nice-select.karx-top-lan .list {
+.nice-select.ericson-top-lan .list {
   background-color: #1a213e;
 }
-.nice-select.karx-top-lan .option:hover, .nice-select.karx-top-lan .option.focus, .nice-select.karx-top-lan .option.selected.focus {
+.nice-select.ericson-top-lan .option:hover, .nice-select.ericson-top-lan .option.focus, .nice-select.ericson-top-lan .option.selected.focus {
   background-color: #3a3f55;
 }
 
-.karx-top-btn {
+.ericson-top-btn {
   font-size: 15px;
   color: #ffffff;
   text-transform: capitalize;
   font-weight: 500;
-  background: #ff630e;
+  background: #C71116;
   padding: 0 30px;
   display: block;
   font-family: "Poppins", sans-serif;
   height: 62px;
   line-height: 60px;
 }
-.karx-top-btn:hover {
+.ericson-top-btn:hover {
   color: #1a213e;
 }
 
-.karx-main-header-wrapper {
+.ericson-main-header-wrapper {
   background: #fff;
 }
 
-.karx-logo-area-2 {
+.ericson-logo-area-2 {
   height: 100px;
   display: flex;
   align-items: center;
 }
 
-.karx-main-menu-wrapper .karx-quote {
+.ericson-main-menu-wrapper .ericson-quote {
   width: 220px;
   height: 80px;
   display: inline-block;
   margin-right: 105px;
 }
 
-.karx-shopping-icon {
+.ericson-shopping-icon {
   position: relative;
   z-index: 1;
 }
-.karx-shopping-icon i {
+.ericson-shopping-icon i {
   font-size: 25px;
   font-weight: 400;
 }
-.karx-shopping-icon .shopping-count {
+.ericson-shopping-icon .shopping-count {
   position: absolute;
   right: -10px;
   top: -20px;
   height: 23px;
   min-width: 23px;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
   border-radius: 50%;
   color: #fff;
   text-align: center;
   font-size: 14px;
 }
 
-.karx-main-header-right {
+.ericson-main-header-right {
   display: flex;
   justify-content: end;
   align-items: center;
   height: 100%;
 }
 
-.karx-header-right {
+.ericson-header-right {
   display: flex;
   align-items: center;
   justify-content: end;
 }
 
-.karx-header-bar-btn {
+.ericson-header-bar-btn {
   display: flex;
   width: 40px;
   flex-direction: column;
 }
-.karx-header-bar-btn span {
+.ericson-header-bar-btn span {
   max-width: 40px;
   height: 3px;
   width: 40px;
   background-color: #1a213e;
   margin: 3.1px 0;
 }
-.karx-header-bar-btn span:is(.karx-header-bar-line-1) {
+.ericson-header-bar-btn span:is(.ericson-header-bar-line-1) {
   width: 30px;
   -webkit-transition: all 0.3s linear 0s;
   -moz-transition: all 0.3s linear 0s;
@@ -2264,7 +2271,7 @@ i {
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
 }
-.karx-header-bar-btn span:is(.karx-header-bar-line-3) {
+.ericson-header-bar-btn span:is(.ericson-header-bar-line-3) {
   width: 30px;
   -webkit-transition: all 0.3s linear 0s;
   -moz-transition: all 0.3s linear 0s;
@@ -2272,7 +2279,7 @@ i {
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
 }
-.karx-header-bar-btn:hover span {
+.ericson-header-bar-btn:hover span {
   width: 100%;
 }
 
@@ -2338,14 +2345,14 @@ i {
 }
 
 @media (max-width: 767px) {
-  .karx-top-btn-wrapper {
+  .ericson-top-btn-wrapper {
     width: 100%;
     border-top: 1px solid #dd4e00;
     text-align: center;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-top-btn-wrapper {
+  .ericson-top-btn-wrapper {
     border-top: 0;
     text-align: start;
     border-left: 1px solid #dd4e00;
@@ -2354,18 +2361,18 @@ i {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hader-1 .karx-main-menu #main-menu {
+  .ericson-hader-1 .ericson-main-menu #main-menu {
     padding-left: 40px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hader-1 .karx-logo-area {
+  .ericson-hader-1 .ericson-logo-area {
     padding-left: 55px;
     justify-content: start;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hader-1 .karx-lan-area {
+  .ericson-hader-1 .ericson-lan-area {
     padding-right: 55px;
     justify-content: end;
   }
@@ -2376,37 +2383,37 @@ i {
 #############################
 #################################
 */
-.karx-contact-info {
+.ericson-contact-info {
   padding-left: 270px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-contact-info {
+  .ericson-contact-info {
     padding-left: 190px;
   }
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-contact-info {
+  .ericson-contact-info {
     padding-left: 0;
   }
 }
-.karx-contact-info li {
+.ericson-contact-info li {
   display: inline-block;
 }
-.karx-contact-info li i {
+.ericson-contact-info li i {
   color: #fff;
   transition: 0.3s;
   margin-right: 10px;
 }
-.karx-contact-info li a {
+.ericson-contact-info li a {
   color: #fff;
 }
-.karx-contact-info li:hover i {
-  color: #ff630e;
+.ericson-contact-info li:hover i {
+  color: #C71116;
 }
-.karx-contact-info li:hover a {
-  color: #ff630e;
+.ericson-contact-info li:hover a {
+  color: #C71116;
 }
-.karx-contact-info li:not(:last-child) {
+.ericson-contact-info li:not(:last-child) {
   margin-right: 15px;
   padding-right: 15px;
 }
@@ -2417,7 +2424,7 @@ i {
 .clearfix-btn li .btn-quote {
   display: inline-block;
   padding: 15px 30px;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
   font-weight: 500;
   margin-left: 15px;
@@ -2430,7 +2437,7 @@ i {
   transition: 0.3s;
 }
 .clearfix-btn li a:hover i {
-  color: #ff630e;
+  color: #C71116;
 }
 
 .header3-logo img {
@@ -2457,12 +2464,12 @@ i {
   margin-top: -27px;
 }
 
-.karx-hero-area {
+.ericson-hero-area {
   position: relative;
   overflow: hidden;
 }
 
-.karx-hero-area::before {
+.ericson-hero-area::before {
   position: absolute;
   content: "";
   width: 100%;
@@ -2473,7 +2480,7 @@ i {
   opacity: 0.3;
 }
 
-.karx-hero-content-area {
+.ericson-hero-content-area {
   position: relative;
 }
 
@@ -2481,57 +2488,57 @@ i {
   min-height: 950px;
 }
 
-.karx-hero-subtitle {
+.ericson-hero-subtitle {
   font-size: 28px;
   font-weight: 500;
-  color: #ff630e;
+  color: #C71116;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hero-subtitle {
+  .ericson-hero-subtitle {
     font-size: 24px;
   }
 }
 @media (max-width: 767px), sm {
-  .karx-hero-subtitle {
+  .ericson-hero-subtitle {
     font-size: 22px;
   }
 }
 
-.karx-hero-title {
+.ericson-hero-title {
   font-size: 80px;
   font-weight: 700;
   color: #1a213e;
   margin: 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hero-title {
+  .ericson-hero-title {
     font-size: 70px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-hero-title {
+  .ericson-hero-title {
     font-size: 60px;
   }
 }
 @media (max-width: 767px) {
-  .karx-hero-title {
+  .ericson-hero-title {
     font-size: 38px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-hero-title {
+  .ericson-hero-title {
     font-size: 46px;
   }
 }
 
-.karx-hero-play {
+.ericson-hero-play {
   display: inline-block;
 }
-.karx-hero-play .karx-play-btn {
+.ericson-hero-play .ericson-play-btn {
   font-size: 30px;
   display: flex;
   color: #ffffff;
-  background: #ff630e;
+  background: #C71116;
   border-radius: 50%;
   cursor: pointer;
   position: relative;
@@ -2542,14 +2549,14 @@ i {
   z-index: 1;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-hero-play .karx-play-btn {
+  .ericson-hero-play .ericson-play-btn {
     width: 140px;
     height: 140px;
     left: 0;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-hero-play .karx-play-btn {
+  .ericson-hero-play .ericson-play-btn {
     width: 120px;
     height: 120px;
     left: 0;
@@ -2557,14 +2564,14 @@ i {
   }
 }
 @media (max-width: 767px) {
-  .karx-hero-play .karx-play-btn {
+  .ericson-hero-play .ericson-play-btn {
     width: 100px;
     height: 100px;
     left: 0;
     top: 20px;
   }
 }
-.karx-hero-play .karx-play-btn i {
+.ericson-hero-play .ericson-play-btn i {
   font-size: 25px;
   transition: all linear 0.3s;
   -webkit-transition: all linear 0.3s;
@@ -2572,7 +2579,7 @@ i {
   -ms-transition: all linear 0.3s;
   -o-transition: all linear 0.3s;
 }
-.karx-hero-play .karx-play-btn:hover {
+.ericson-hero-play .ericson-play-btn:hover {
   background: #1a213e;
 }
 
@@ -2584,7 +2591,7 @@ i {
   border-radius: 50%;
   width: 100%;
   height: 100%;
-  border: 1px solid #ff630e;
+  border: 1px solid #C71116;
   animation-name: popupBtn;
   animation-duration: 1.8s;
   animation-timing-function: linear;
@@ -2598,7 +2605,7 @@ i {
   border-radius: 50%;
   width: 100%;
   height: 100%;
-  border: 1px solid #ff630e;
+  border: 1px solid #C71116;
   animation-name: popupBtn;
   animation-duration: 1.8s;
   animation-timing-function: linear;
@@ -2620,16 +2627,16 @@ i {
     opacity: 0;
   }
 }
-.karx-offer-content {
+.ericson-offer-content {
   position: relative;
   z-index: 99;
 }
-.karx-offer-content .offer-count {
+.ericson-offer-content .offer-count {
   font-size: 80px;
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
-  background: #ff630e;
+  background: #C71116;
   color: #ffffff;
   border-radius: 50%;
   width: 370px;
@@ -2639,14 +2646,14 @@ i {
   justify-content: center;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-offer-content .offer-count {
+  .ericson-offer-content .offer-count {
     width: 355px;
     height: 355px;
     font-size: 70px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-offer-content .offer-count {
+  .ericson-offer-content .offer-count {
     width: 325px;
     height: 325px;
     font-size: 70px;
@@ -2654,7 +2661,7 @@ i {
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-offer-content .offer-count {
+  .ericson-offer-content .offer-count {
     width: 325px;
     height: 325px;
     font-size: 60px;
@@ -2662,7 +2669,7 @@ i {
   }
 }
 @media (max-width: 767px) {
-  .karx-offer-content .offer-count {
+  .ericson-offer-content .offer-count {
     width: 250px;
     height: 250px;
     font-size: 55px;
@@ -2670,14 +2677,14 @@ i {
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-offer-content .offer-count {
+  .ericson-offer-content .offer-count {
     font-size: 55px;
     width: 250px;
     height: 250px;
     margin-left: 0px;
   }
 }
-.karx-offer-content::before {
+.ericson-offer-content::before {
   position: absolute;
   content: "";
   background: #ffffff;
@@ -2690,32 +2697,32 @@ i {
   margin-top: -70px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-offer-content::before {
+  .ericson-offer-content::before {
     left: -790px;
     width: 100%;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-offer-content::before {
+  .ericson-offer-content::before {
     left: -440px;
     width: 100%;
   }
 }
 @media (max-width: 767px) {
-  .karx-offer-content::before {
+  .ericson-offer-content::before {
     height: 90px;
     left: -40px;
     width: 40%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-offer-content::before {
+  .ericson-offer-content::before {
     height: 90px;
     left: -350px;
     width: 100%;
   }
 }
-.karx-offer-content::after {
+.ericson-offer-content::after {
   position: absolute;
   content: "";
   background: #ffffff;
@@ -2728,26 +2735,26 @@ i {
   margin-bottom: -70px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-offer-content::after {
+  .ericson-offer-content::after {
     left: -790px;
     width: 100%;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-offer-content::after {
+  .ericson-offer-content::after {
     left: -440px;
     width: 100%;
   }
 }
 @media (max-width: 767px) {
-  .karx-offer-content::after {
+  .ericson-offer-content::after {
     height: 90px;
     left: -40px;
     width: 40%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-offer-content::after {
+  .ericson-offer-content::after {
     height: 90px;
     left: -350px;
     width: 100%;
@@ -2759,14 +2766,14 @@ i {
   z-index: 1;
 }
 
-.karx-slider-dots {
+.ericson-slider-dots {
   position: absolute;
   left: 120px;
   top: 50%;
   transform: translateY(-50%);
   z-index: 2;
 }
-.karx-slider-dots span {
+.ericson-slider-dots span {
   background-color: #1a213e;
   display: block;
   width: 20px;
@@ -2774,16 +2781,16 @@ i {
   border-radius: 50%;
   margin: 15px 0;
 }
-.karx-slider-dots span.swiper-pagination-bullet-active {
+.ericson-slider-dots span.swiper-pagination-bullet-active {
   border: 6px solid #fff;
   outline: 1px solid #000;
 }
 
-.karx-hero-area-2 {
+.ericson-hero-area-2 {
   position: relative;
   z-index: 1;
 }
-.karx-hero-area-2:before {
+.ericson-hero-area-2:before {
   position: absolute;
   left: 0;
   top: 0;
@@ -2796,51 +2803,51 @@ i {
   opacity: 0.8;
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-hero-area-2:before {
+  .ericson-hero-area-2:before {
     clip-path: inherit;
   }
 }
 
-.karx-hero-2-wrapper {
+.ericson-hero-2-wrapper {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top right;
 }
 
-.karx-hero-2-content {
+.ericson-hero-2-content {
   position: relative;
   z-index: 1;
 }
 
-.karx-hero-2-content-wrapper .karx-hero-play {
+.ericson-hero-2-content-wrapper .ericson-hero-play {
   margin-left: 0px;
   margin-bottom: 60px;
 }
-.karx-hero-2-content-wrapper .karx-hero-play .karx-play-btn {
+.ericson-hero-2-content-wrapper .ericson-hero-play .ericson-play-btn {
   color: #1a213e;
   background: #ffffff;
 }
-.karx-hero-2-content-wrapper .karx-hero-play .karx-play-btn i {
-  color: #ff630e;
+.ericson-hero-2-content-wrapper .ericson-hero-play .ericson-play-btn i {
+  color: #C71116;
 }
 
-.karx-hero-title-2 {
+.ericson-hero-title-2 {
   font-size: 60px;
   line-height: 1.2;
   color: #ffffff;
 }
 @media (max-width: 767px) {
-  .karx-hero-title-2 {
+  .ericson-hero-title-2 {
     font-size: 36px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-hero-title-2 {
+  .ericson-hero-title-2 {
     font-size: 46px;
   }
 }
 
-.karx-hero-desc {
+.ericson-hero-desc {
   font-weight: 400;
   color: #ffffff;
   font-family: "Open Sans", sans-serif;
@@ -2849,17 +2856,17 @@ i {
   font-size: 20px;
 }
 @media (max-width: 767px) {
-  .karx-hero-desc {
+  .ericson-hero-desc {
     font-size: 18px;
   }
 }
 @media (max-width: 767px) {
-  .karx-hero-desc br {
+  .ericson-hero-desc br {
     display: none;
   }
 }
 
-.karx-hero-btn-2 {
+.ericson-hero-btn-2 {
   display: inline-block;
   text-transform: capitalize;
   font-size: 20px;
@@ -2870,7 +2877,7 @@ i {
   padding: 20px 40px;
   border-radius: 5px;
 }
-.karx-hero-btn-2:hover {
+.ericson-hero-btn-2:hover {
   color: #ffffff;
   background-color: #1a213e;
 }
@@ -2881,7 +2888,7 @@ New CSS
 ###############################
 #######################################
 */
-.karx-slider3-area .container {
+.ericson-slider3-area .container {
   display: flex;
   margin-right: 0;
   max-width: unset;
@@ -2889,28 +2896,28 @@ New CSS
   align-items: center;
   padding-left: 303px;
 }
-.karx-slider3-area .container .hero_main {
+.ericson-slider3-area .container .hero_main {
   min-width: 29vw;
 }
 
-.karx-slider3-area .container-slider3 {
+.ericson-slider3-area .container-slider3 {
   display: flex;
   padding-left: calc((100% - 1326px) / 2);
   margin-left: 15px;
   align-items: center;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-slider3-area .container-slider3 {
+  .ericson-slider3-area .container-slider3 {
     padding-left: calc((100% - 1140px) / 2);
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-slider3-area .container-slider3 {
+  .ericson-slider3-area .container-slider3 {
     padding-left: calc((100% - 960px) / 2);
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-slider3-area .container-slider3 {
+  .ericson-slider3-area .container-slider3 {
     padding-left: calc((100% - 720px) / 2);
   }
 }
@@ -2979,7 +2986,7 @@ New CSS
   display: inline-block;
   font-size: 28px;
   margin-bottom: 10px;
-  color: #ff630e;
+  color: #C71116;
 }
 @media (max-width: 767px) {
   .slider-subtitle {
@@ -3010,7 +3017,7 @@ New CSS
 .slider-buttons span .slider-btn {
   display: inline-block;
   height: 60px;
-  background-color: #ff630e;
+  background-color: #C71116;
   line-height: 60px;
   padding: 0 30px;
   border-radius: 5px;
@@ -3030,7 +3037,7 @@ New CSS
   width: 60px;
   line-height: 60px;
   border-radius: 50%;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
   display: inline-block;
   text-align: center;
@@ -3061,7 +3068,7 @@ New CSS
   border-left: 1px solid #ddd;
 }
 .hero_slider-nav span:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
 .slider3-height {
@@ -3079,23 +3086,23 @@ New CSS
 04. Breadcrumb
 ******************************************************* 
 *************************************************************** */
-.karx-breadcrumb-title {
+.ericson-breadcrumb-title {
   font-size: 72px;
   line-height: 1.2;
   margin-bottom: 10px;
 }
 @media (max-width: 767px) {
-  .karx-breadcrumb-title {
+  .ericson-breadcrumb-title {
     font-size: 42px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-breadcrumb-title {
+  .ericson-breadcrumb-title {
     font-size: 52px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-breadcrumb-title {
+  .ericson-breadcrumb-title {
     font-size: 60px;
   }
 }
@@ -3128,7 +3135,7 @@ New CSS
   color: #1a213e;
 }
 .breadcrumb-navigation li a:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
 /*
@@ -3137,40 +3144,40 @@ New CSS
 05. Feature
 ******************************************************* 
 *************************************************************** */
-.karx-feature-area {
+.ericson-feature-area {
   background-color: #f1f3f2;
 }
 
-.karx-feature-wrapper {
+.ericson-feature-wrapper {
   background: #ffffff;
 }
 
-.karx-feature-box {
+.ericson-feature-box {
   border: 1px solid #d4d5d9;
   padding: 0 40px;
 }
-.karx-feature-box:hover .karx-feature-btn {
-  background-color: #ff630e;
+.ericson-feature-box:hover .ericson-feature-btn {
+  background-color: #C71116;
   color: #ffffff;
-  border-color: #ff630e;
+  border-color: #C71116;
 }
-.karx-feature-box:hover .karx-feature-btn i {
+.ericson-feature-box:hover .ericson-feature-btn i {
   color: #ffffff;
 }
 
-.karx-feature-box-img {
+.ericson-feature-box-img {
   margin-bottom: 30px;
 }
 
-.karx-feature-box-text h6 {
+.ericson-feature-box-text h6 {
   margin-bottom: 20px;
   font-family: "Poppins", sans-serif;
 }
-.karx-feature-box-text p {
+.ericson-feature-box-text p {
   margin-bottom: 30px;
 }
 
-.karx-feature-btn {
+.ericson-feature-btn {
   font-size: 16px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
@@ -3180,7 +3187,7 @@ New CSS
   padding: 15px 30px;
   display: inline-block;
 }
-.karx-feature-btn i {
+.ericson-feature-btn i {
   margin-left: 5px;
   font-size: 20px;
   color: #1a213e;
@@ -3202,28 +3209,28 @@ New CSS
   max-width: 1540px;
 }
 
-.karx-market-content-absimg.mtm-100 {
+.ericson-market-content-absimg.mtm-100 {
   height: 870px;
 }
 @media (max-width: 767px) {
-  .karx-market-content-absimg.mtm-100 {
+  .ericson-market-content-absimg.mtm-100 {
     height: 600px;
   }
 }
-.karx-market-content-absimg.mtm-100 img {
+.ericson-market-content-absimg.mtm-100 img {
   height: 100%;
   object-fit: cover;
 }
 
-.karx-about-img {
+.ericson-about-img {
   height: 805px;
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-about-img {
+  .ericson-about-img {
     height: 700px;
   }
 }
-.karx-about-img img {
+.ericson-about-img img {
   height: 100%;
   object-fit: cover;
 }
@@ -3236,7 +3243,7 @@ New CSS
   font-size: 20px;
   line-height: 1.2;
   font-weight: 600;
-  color: #ff630e;
+  color: #C71116;
   display: inline-block;
   margin-bottom: 10px;
 }
@@ -3266,17 +3273,17 @@ New CSS
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-about-content-2 .about-title {
+  .ericson-about-content-2 .about-title {
     font-size: 40px;
   }
 }
 
-.karx-about-task-list {
+.ericson-about-task-list {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-.karx-about-task-list li {
+.ericson-about-task-list li {
   display: block;
   position: relative;
   font-size: 16px;
@@ -3285,12 +3292,12 @@ New CSS
   z-index: 1;
 }
 @media (max-width: 767px) {
-  .karx-about-task-list li {
+  .ericson-about-task-list li {
     display: flex;
     margin-bottom: 5px;
   }
 }
-.karx-about-task-list li i {
+.ericson-about-task-list li i {
   font-size: 14px;
   padding: 5px;
   background-color: #F1F3F2;
@@ -3301,61 +3308,61 @@ New CSS
   margin-top: 3px;
 }
 @media (max-width: 767px) {
-  .karx-about-task-list li i {
+  .ericson-about-task-list li i {
     height: 30px;
     width: 30px;
     line-height: 20px;
     text-align: center;
   }
 }
-.karx-about-task-list li:not(:last-child) {
+.ericson-about-task-list li:not(:last-child) {
   margin-bottom: 10px;
 }
 
-.karx-about-testimonial {
+.ericson-about-testimonial {
   background-color: #F1F3F2;
   padding: 30px;
   position: relative;
   z-index: 1;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-about-testimonial {
+  .ericson-about-testimonial {
     padding: 50px;
   }
 }
 @media (max-width: 767px) {
-  .karx-about-testimonial {
+  .ericson-about-testimonial {
     padding: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-testimonial {
+  .ericson-about-testimonial {
     padding: 40px;
   }
 }
 
-.karx-about-testimonial-quote {
+.ericson-about-testimonial-quote {
   font-size: 20px;
   line-height: 1.4;
   color: #1a213e;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-about-testimonial-quote {
+  .ericson-about-testimonial-quote {
     font-size: 22px;
   }
 }
 @media (max-width: 767px) {
-  .karx-about-testimonial-quote {
+  .ericson-about-testimonial-quote {
     font-size: 20px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-testimonial-quote {
+  .ericson-about-testimonial-quote {
     font-size: 22px;
   }
 }
 
-.karx-about-content img {
+.ericson-about-content img {
   border-radius: 50%;
   margin-right: 15px;
 }
@@ -3366,21 +3373,21 @@ New CSS
   }
 }
 
-.karx-support-author {
+.ericson-support-author {
   font-weight: 700;
   font-size: 18px;
   color: #1a213e;
 }
-.karx-support-author:hover {
-  color: #ff630e;
+.ericson-support-author:hover {
+  color: #C71116;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-support-author {
+  .ericson-support-author {
     font-size: 20px;
   }
 }
 
-.karx-support-icon-quote {
+.ericson-support-icon-quote {
   position: absolute;
   font-size: 35px;
   line-height: 1;
@@ -3388,85 +3395,85 @@ New CSS
   right: 30px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-support-icon-quote {
+  .ericson-support-icon-quote {
     bottom: 50px;
     right: 50px;
   }
 }
 @media (max-width: 767px) {
-  .karx-support-icon-quote {
+  .ericson-support-icon-quote {
     font-size: 24px;
     bottom: 30px;
     right: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-support-icon-quote {
+  .ericson-support-icon-quote {
     right: 40px;
     bottom: 40px;
     font-size: 28px;
   }
 }
 
-.karx-about-left-img-area {
+.ericson-about-left-img-area {
   height: 795px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-about-left-img-area {
+  .ericson-about-left-img-area {
     height: auto;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-about-img-text-wrapp.mt-15 {
+  .ericson-about-img-text-wrapp.mt-15 {
     margin-bottom: 15px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-img-text-wrapp.mt-15 {
+  .ericson-about-img-text-wrapp.mt-15 {
     margin-bottom: 0;
   }
 }
 
-.karx-about-left-img {
+.ericson-about-left-img {
   position: relative;
   height: calc(100% - 190px);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-about-left-img {
+  .ericson-about-left-img {
     height: 565px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-about-left-img {
+  .ericson-about-left-img {
     height: 575px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-about-left-img {
+  .ericson-about-left-img {
     height: 510px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-left-img {
+  .ericson-about-left-img {
     height: 511px;
   }
 }
-.karx-about-left-img img {
+.ericson-about-left-img img {
   min-height: 100%;
   object-fit: cover;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-about-left-img img {
+  .ericson-about-left-img img {
     min-height: 100%;
     height: 100%;
   }
 }
 
-.karx-about-play-icon {
+.ericson-about-play-icon {
   width: 150px;
   height: 130px;
-  background-color: #FF630E;
+  background-color: #C71116;
   display: inline-block;
   color: #fff;
   font-size: 35px;
@@ -3477,15 +3484,15 @@ New CSS
   position: absolute;
   margin-left: -75px;
 }
-.karx-about-play-icon:hover {
+.ericson-about-play-icon:hover {
   background-color: #1a213e;
   color: #fff;
 }
-.karx-about-play-icon:focus {
+.ericson-about-play-icon:focus {
   color: #fff;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1799px) {
-  .karx-about-play-icon {
+  .ericson-about-play-icon {
     width: 130px;
     height: 110px;
     font-size: 32px;
@@ -3494,7 +3501,7 @@ New CSS
   }
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-about-play-icon {
+  .ericson-about-play-icon {
     width: 102px;
     height: 90px;
     font-size: 31px;
@@ -3503,7 +3510,7 @@ New CSS
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-about-play-icon {
+  .ericson-about-play-icon {
     width: 90px;
     height: 76px;
     font-size: 28px;
@@ -3513,7 +3520,7 @@ New CSS
   }
 }
 @media (max-width: 767px) {
-  .karx-about-play-icon {
+  .ericson-about-play-icon {
     width: 90px;
     height: 90px;
     font-size: 25px;
@@ -3523,7 +3530,7 @@ New CSS
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-play-icon {
+  .ericson-about-play-icon {
     width: 100px;
     height: 90px;
     font-size: 31px;
@@ -3533,100 +3540,100 @@ New CSS
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-about-content.pl-20 {
+  .ericson-about-content.pl-20 {
     padding-left: 0;
   }
 }
 
-.karx-about-img-text-wrapp {
-  background-color: #FF630E;
+.ericson-about-img-text-wrapp {
+  background-color: #C71116;
   padding: 40px;
   padding-top: 35px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-about-img.w_100 img {
+  .ericson-about-img.w_100 img {
     height: 785px;
   }
 }
-.karx-about-img-text {
+.ericson-about-img-text {
   font-size: 46px;
   color: #fff;
   text-align: center;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-about-img-text {
+  .ericson-about-img-text {
     font-size: 38px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-about-img-text {
+  .ericson-about-img-text {
     font-size: 50px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-about-img-text {
+  .ericson-about-img-text {
     font-size: 42px;
   }
 }
 @media (max-width: 767px) {
-  .karx-about-img-text {
+  .ericson-about-img-text {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-img-text {
+  .ericson-about-img-text {
     font-size: 36px;
   }
 }
 
 /* About 2 CSS */
-.karx-about-2-img-wrapper {
+.ericson-about-2-img-wrapper {
   position: relative;
   z-index: 1;
 }
-.karx-about-2-img-wrapper .karx-about-2-img {
+.ericson-about-2-img-wrapper .ericson-about-2-img {
   height: 770px;
 }
-.karx-about-2-img-wrapper .karx-about-2-img img {
+.ericson-about-2-img-wrapper .ericson-about-2-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-about-2-img-wrapper .karx-about-2-img:is(.pr-60) {
+  .ericson-about-2-img-wrapper .ericson-about-2-img:is(.pr-60) {
     padding-right: 0;
   }
 }
-.karx-about-2-img-wrapper .karx-about-img-text-wrapp {
-  background-color: #FF630E;
+.ericson-about-2-img-wrapper .ericson-about-img-text-wrapp {
+  background-color: #C71116;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.karx-about-2-img-wrapper .karx-about-img-text-wrapp .karx-about-img-text {
+.ericson-about-2-img-wrapper .ericson-about-img-text-wrapp .ericson-about-img-text {
   text-align: left;
 }
-.karx-about-2-img-wrapper .karx-about-img-text-wrapp .karx-about-img-text span {
+.ericson-about-2-img-wrapper .ericson-about-img-text-wrapp .ericson-about-img-text span {
   font-size: 70px;
 }
-.karx-about-2-img-wrapper .karx-about-img-text-wrapp:is(.pos-abs-img) {
+.ericson-about-2-img-wrapper .ericson-about-img-text-wrapp:is(.pos-abs-img) {
   padding: 60px 90px;
 }
 @media (max-width: 767px) {
-  .karx-about-2-img-wrapper .karx-about-img-text-wrapp:is(.pos-abs-img) {
+  .ericson-about-2-img-wrapper .ericson-about-img-text-wrapp:is(.pos-abs-img) {
     width: 100%;
     padding: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-2-img-wrapper .karx-about-img-text-wrapp:is(.pos-abs-img) {
+  .ericson-about-2-img-wrapper .ericson-about-img-text-wrapp:is(.pos-abs-img) {
     width: auto;
     padding: 40px 70px;
   }
 }
 @media (max-width: 767px) {
-  .karx-about-2-img-wrapper:is(.pl-100) {
+  .ericson-about-2-img-wrapper:is(.pl-100) {
     padding-left: 0;
   }
 }
@@ -3637,11 +3644,11 @@ New CSS
   left: 0;
 }
 
-.karx-about-2-service-task:hover .karx-about-2-service-icon {
-  background-color: #ff630e;
+.ericson-about-2-service-task:hover .ericson-about-2-service-icon {
+  background-color: #C71116;
 }
 
-.karx-about-2-service-icon {
+.ericson-about-2-service-icon {
   background: #f1f3f2;
   text-align: center;
   clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
@@ -3656,41 +3663,41 @@ New CSS
   height: 90px;
 }
 @media (max-width: 767px) {
-  .karx-about-2-service-icon:is(.mr-30) {
+  .ericson-about-2-service-icon:is(.mr-30) {
     margin-right: 0;
     margin-bottom: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-2-service-icon:is(.mr-30) {
+  .ericson-about-2-service-icon:is(.mr-30) {
     margin-right: 30px;
     margin-bottom: 0;
   }
 }
 
-.karx-about-2-service-text .karx-about-2-service-title {
+.ericson-about-2-service-text .ericson-about-2-service-title {
   text-transform: capitalize;
   font-size: 24px;
 }
-.karx-about-2-service-text p {
+.ericson-about-2-service-text p {
   margin: 0;
 }
 
-.karx-about-2-service-task {
+.ericson-about-2-service-task {
   display: flex;
 }
 @media (max-width: 767px) {
-  .karx-about-2-service-task {
+  .ericson-about-2-service-task {
     flex-direction: column;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-2-service-task {
+  .ericson-about-2-service-task {
     flex-direction: row;
   }
 }
 
-.karx-about-2-person-btn a {
+.ericson-about-2-person-btn a {
   font-size: 18px;
   text-transform: capitalize;
   background-color: #1a213e;
@@ -3698,82 +3705,82 @@ New CSS
   display: inline-block;
   padding: 15px 35px;
 }
-.karx-about-2-person-btn a:hover {
-  background-color: #ff630e;
+.ericson-about-2-person-btn a:hover {
+  background-color: #C71116;
 }
-.karx-about-2-person-btn .btn-plus-icon::after {
+.ericson-about-2-person-btn .btn-plus-icon::after {
   content: "\f067";
   font-family: "font awesome 5 pro";
   margin-left: 5px;
 }
 
-.karx-person-button-wrapp {
+.ericson-person-button-wrapp {
   display: flex;
   align-items: center;
 }
 @media (max-width: 767px) {
-  .karx-person-button-wrapp {
+  .ericson-person-button-wrapp {
     flex-direction: column;
     align-items: flex-start;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-person-button-wrapp {
+  .ericson-person-button-wrapp {
     flex-direction: row;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-about-2-person-btn.mr-40 {
+  .ericson-about-2-person-btn.mr-40 {
     margin-bottom: 30px;
     margin-right: 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-about-2-person-btn.mr-40 {
+  .ericson-about-2-person-btn.mr-40 {
     margin-bottom: 0;
     margin-right: 40px;
   }
 }
 
-.karx-about-2-parson-wrapper {
+.ericson-about-2-parson-wrapper {
   display: flex;
   align-items: center;
 }
-.karx-about-2-parson-wrapper .parson-img {
+.ericson-about-2-parson-wrapper .parson-img {
   display: inline-block;
   margin-right: 20px;
 }
-.karx-about-2-parson-wrapper .parson-img img {
+.ericson-about-2-parson-wrapper .parson-img img {
   display: inline-block;
   width: 70px;
   height: 70px;
   border-radius: 50%;
 }
-.karx-about-2-parson-wrapper .parson-text {
+.ericson-about-2-parson-wrapper .parson-text {
   display: inline-block;
 }
-.karx-about-2-parson-wrapper .parson-text a {
+.ericson-about-2-parson-wrapper .parson-text a {
   display: block;
   font-size: 20px;
   font-weight: 700;
   text-transform: capitalize;
   color: #1a213e;
 }
-.karx-about-2-parson-wrapper .parson-text a:hover {
-  color: #ff630e;
+.ericson-about-2-parson-wrapper .parson-text a:hover {
+  color: #C71116;
 }
-.karx-about-2-parson-wrapper .parson-text span {
+.ericson-about-2-parson-wrapper .parson-text span {
   font-size: 14px;
   text-transform: capitalize;
   display: block;
 }
 
-.karx-feature-2-single {
+.ericson-feature-2-single {
   border: 1px solid #ddd;
 }
 
-.karx-feature-2-btn {
+.ericson-feature-2-btn {
   display: inline-block;
   height: 60px;
   border: 1px solid #ddd;
@@ -3783,10 +3790,10 @@ New CSS
   font-weight: 600;
   color: #1a213e;
 }
-.karx-feature-2-btn:hover {
+.ericson-feature-2-btn:hover {
   color: #fff;
-  background-color: #ff630e;
-  border-color: #ff630e;
+  background-color: #C71116;
+  border-color: #C71116;
 }
 
 .tp-about-img-two .img-second {
@@ -3797,7 +3804,7 @@ New CSS
   border-radius: 50%;
   width: 300px;
   height: 300px;
-  border: 10px solid #ff630e;
+  border: 10px solid #C71116;
 }
 @media (max-width: 767px) {
   .tp-about-img-two .img-second {
@@ -3817,7 +3824,7 @@ New CSS
   position: absolute;
   top: 0px;
   right: 0px;
-  background: #ff630e;
+  background: #C71116;
   text-align: center;
   height: 220px;
   width: 110px;
@@ -3847,14 +3854,14 @@ New CSS
 }
 
 .about-title span {
-  color: #ff630e;
+  color: #C71116;
 }
 
 .quote-text {
   background: #fff;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
   padding: 30px;
-  border-left: 5px solid #ff630e;
+  border-left: 5px solid #C71116;
   margin-bottom: 30px;
   font-size: 18px;
   line-height: 32px;
@@ -3873,7 +3880,7 @@ New CSS
   margin-bottom: 5px;
 }
 .tp-about-list ul li i {
-  color: #ff630e;
+  color: #C71116;
   display: inline-block;
   margin-right: 10px;
   font-size: 16px;
@@ -3900,7 +3907,7 @@ New CSS
 .tp-btn {
   height: 60px;
   line-height: 60px;
-  background-color: #ff630e;
+  background-color: #C71116;
   padding: 0 30px;
   border-radius: 5px;
   color: #fff;
@@ -3996,7 +4003,7 @@ New CSS
   display: inline-block;
   font-size: 60px;
   margin-bottom: 15px;
-  color: #ff630e;
+  color: #C71116;
 }
 
 .process-style-four h3 {
@@ -4027,7 +4034,7 @@ New CSS
 }
 
 .process-style-four-box .single-item:nth-child(2) .process-style-four {
-  background: #ff630e;
+  background: #C71116;
 }
 
 .process-style-four-box .single-item:nth-child(3) .process-style-four {
@@ -4053,23 +4060,23 @@ New CSS
 }
 
 /* Service CSS */
-.karx-online-form-wrapper {
+.ericson-online-form-wrapper {
   margin-top: -150px;
   position: relative;
   z-index: 1;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-online-form-wrapper {
+  .ericson-online-form-wrapper {
     margin-top: -144px;
   }
 }
 @media (max-width: 767px) {
-  .karx-online-form-wrapper {
+  .ericson-online-form-wrapper {
     margin-top: -140px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-online-form-wrapper {
+  .ericson-online-form-wrapper {
     margin-top: -144px;
   }
 }
@@ -4090,24 +4097,24 @@ New CSS
   }
 }
 
-.karx-online-form-wrapper {
+.ericson-online-form-wrapper {
   box-shadow: 0 13px 29px rgba(0, 0, 0, 0.1);
   border-radius: 15px;
 }
 
-.karx-online-form-header {
+.ericson-online-form-header {
   padding: 35px 50px;
-  background-color: #ff630e;
+  background-color: #C71116;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
 @media (max-width: 767px) {
-  .karx-online-form-header {
+  .ericson-online-form-header {
     padding: 35px 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-online-form-header {
+  .ericson-online-form-header {
     padding: 35px 50px;
   }
 }
@@ -4128,25 +4135,25 @@ New CSS
   }
 }
 
-.karx-online-form-header span {
+.ericson-online-form-header span {
   color: #fff;
 }
 
-.karx-online-form-body {
+.ericson-online-form-body {
   padding: 50px;
 }
 @media (max-width: 767px) {
-  .karx-online-form-body {
+  .ericson-online-form-body {
     padding: 40px 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-online-form-body {
+  .ericson-online-form-body {
     padding: 50px;
   }
 }
 
-.karx-online-form-body input {
+.ericson-online-form-body input {
   height: 70px;
   width: 100%;
   border: 1px solid #f2f2f2;
@@ -4156,18 +4163,18 @@ New CSS
   border-radius: 5px;
 }
 
-.karx-online-form-body .nice-select {
+.ericson-online-form-body .nice-select {
   width: 100%;
   height: 70px;
   line-height: 70px;
   border: 1px solid #f2f2f2;
   margin-bottom: 20px;
 }
-.karx-online-form-body .nice-select .list {
+.ericson-online-form-body .nice-select .list {
   width: 100%;
 }
 
-.karx-online-form-body .nice-select:after {
+.ericson-online-form-body .nice-select:after {
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   width: 7px;
@@ -4175,29 +4182,29 @@ New CSS
   right: 20px;
 }
 
-.karx-online-form-body button[type=submit] {
+.ericson-online-form-body button[type=submit] {
   height: 70px;
   border: 0;
   line-height: 70px;
   width: 100%;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
   text-transform: uppercase;
   border-radius: 5px;
   transition: 0.3s;
 }
-.karx-online-form-body button[type=submit]:hover {
+.ericson-online-form-body button[type=submit]:hover {
   background-color: #1a213e;
   color: #fff;
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-service-section.pl-60 {
+  .ericson-service-section.pl-60 {
     padding-left: 0;
   }
 }
 
-.karx-service-item-header {
+.ericson-service-item-header {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border: 1px solid #ddd;
@@ -4208,13 +4215,13 @@ New CSS
   padding: 30px;
 }
 @media (max-width: 767px) {
-  .karx-service-item-header {
+  .ericson-service-item-header {
     flex-direction: column;
     align-items: flex-start;
   }
 }
 
-.karx-service-item-navigation span {
+.ericson-service-item-navigation span {
   padding: 10px 20px;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -4223,98 +4230,98 @@ New CSS
   transition: 0.3s;
   display: inline-block;
 }
-.karx-service-item-navigation span:first-child {
+.ericson-service-item-navigation span:first-child {
   margin-right: 10px;
 }
-.karx-service-item-navigation span:hover {
-  background-color: #ff630e;
-  border-color: #ff630e;
+.ericson-service-item-navigation span:hover {
+  background-color: #C71116;
+  border-color: #C71116;
   color: #fff;
 }
 
-.karx-service-item-subtitle {
+.ericson-service-item-subtitle {
   display: inline-block;
   margin-bottom: 10px;
   color: #1a213e;
 }
 
-.karx-service-item-title {
+.ericson-service-item-title {
   font-size: 36px;
   color: #1a213e;
   margin-bottom: 0;
 }
 @media (max-width: 767px) {
-  .karx-service-item-title {
+  .ericson-service-item-title {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-service-item-title {
+  .ericson-service-item-title {
     font-size: 36px;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-service-item-navigation {
+  .ericson-service-item-navigation {
     margin-top: 20px;
   }
 }
 
-.karx-service-inner {
+.ericson-service-inner {
   padding-left: 50px;
   position: relative;
   z-index: 1;
   overflow: hidden;
-  border-bottom: 5px solid #ff630e;
+  border-bottom: 5px solid #C71116;
   min-height: 300px;
 }
 @media (max-width: 767px) {
-  .karx-service-inner {
+  .ericson-service-inner {
     padding-left: 0px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-service-inner {
+  .ericson-service-inner {
     padding-left: 50px;
   }
 }
-.karx-service-inner:hover .karx-service-inner-img-content {
+.ericson-service-inner:hover .ericson-service-inner-img-content {
   bottom: 0;
 }
-.karx-service-inner:hover .karx-service-inner-img-btn {
+.ericson-service-inner:hover .ericson-service-inner-img-btn {
   margin-top: 0;
   opacity: 1;
   visibility: visible;
 }
-.karx-service-inner:hover .karx-service-inner-cat {
+.ericson-service-inner:hover .ericson-service-inner-cat {
   padding-left: 0;
 }
-.karx-service-inner:hover .karx-service-inner-cat:before {
+.ericson-service-inner:hover .ericson-service-inner-cat:before {
   width: 0;
 }
 
-.karx-service-inner:before {
+.ericson-service-inner:before {
   position: absolute;
   left: 0;
   bottom: 0;
   width: 50px;
   height: 50%;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
   z-index: -1;
 }
 
-.karx-service-inner-img {
+.ericson-service-inner-img {
   position: relative;
   z-index: 1;
 }
 
-.karx-service-inner-img-icon {
+.ericson-service-inner-img-icon {
   position: absolute;
   right: 0;
   width: 90px;
   height: 90px;
-  background-color: #ff630e;
+  background-color: #C71116;
   text-align: center;
   line-height: 90px;
   bottom: 0;
@@ -4322,7 +4329,7 @@ New CSS
   color: #fff;
 }
 
-.karx-service-inner-cat {
+.ericson-service-inner-cat {
   font-size: 18px;
   padding-left: 45px;
   position: relative;
@@ -4332,32 +4339,32 @@ New CSS
   transition: 0.3s;
 }
 
-.karx-service-inner-cat:before {
+.ericson-service-inner-cat:before {
   position: absolute;
   left: 0;
   top: 50%;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
   transform: translateY(-50%);
   width: 35px;
   height: 2px;
   transition: 0.3s;
 }
 
-.karx-service-inner-img-title {
+.ericson-service-inner-img-title {
   font-size: 28px;
 }
-.karx-service-inner-img-title:hover a {
-  color: #ff630e;
+.ericson-service-inner-img-title:hover a {
+  color: #C71116;
 }
 
-.karx-service-inner-img {
+.ericson-service-inner-img {
   position: relative;
   z-index: 2;
   overflow: hidden;
 }
 
-.karx-service-inner-img-content {
+.ericson-service-inner-img-content {
   position: absolute;
   left: 0;
   bottom: -60px;
@@ -4365,31 +4372,31 @@ New CSS
   width: calc(100% - 90px);
   padding: 40px;
   z-index: 3;
-  border-left: 15px solid #ff630e;
+  border-left: 15px solid #C71116;
   transition: 0.3s;
 }
 @media (max-width: 767px) {
-  .karx-service-inner-img-content {
+  .ericson-service-inner-img-content {
     width: 100%;
     padding: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-service-inner-img-content {
+  .ericson-service-inner-img-content {
     width: calc(100% - 90px);
     padding: 40px;
   }
 }
 
-.karx-service-inner-img-btn {
+.ericson-service-inner-img-btn {
   margin-top: 15px;
   display: inline-block;
   transition: 0.3s;
   opacity: 0;
   visibility: hidden;
 }
-.karx-service-inner-img-btn:hover {
-  color: #ff630e;
+.ericson-service-inner-img-btn:hover {
+  color: #C71116;
 }
 
 .tb-about-call {
@@ -4399,10 +4406,10 @@ New CSS
   font-size: 20px;
 }
 .tb-about-call:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
-.karx-market-3-height {
+.ericson-market-3-height {
   min-height: 500px;
 }
 
@@ -4418,14 +4425,14 @@ New CSS
   margin-bottom: -100px;
 }
 
-.karx-top-service-experience {
+.ericson-top-service-experience {
   background: #ffffff;
   box-shadow: 0px -5px 15px 0px #8284861f;
   padding: 60px 50px;
   display: flex;
 }
 @media (max-width: 767px) {
-  .karx-top-service-experience {
+  .ericson-top-service-experience {
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -4433,7 +4440,7 @@ New CSS
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-top-service-experience {
+  .ericson-top-service-experience {
     flex-direction: row;
     align-items: flex-start;
     text-align: start;
@@ -4513,33 +4520,33 @@ New CSS
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .karx-popular-service-right.pl-30 {
+  .ericson-popular-service-right.pl-30 {
     padding-left: 10px;
   }
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-popular-service-title-area.ml-30 {
+  .ericson-popular-service-title-area.ml-30 {
     margin-left: 0;
   }
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-popular-service-right.pl-30 {
+  .ericson-popular-service-right.pl-30 {
     padding-left: 0;
   }
 }
 
-.karx-special-service-area {
+.ericson-special-service-area {
   background: #f1f3f2;
   position: relative;
 }
-.karx-special-service-area .karx-special-service-bg-1 {
+.ericson-special-service-area .ericson-special-service-bg-1 {
   position: absolute;
   top: 20%;
   left: 5%;
 }
-.karx-special-service-area .karx-special-service-bg-2 {
+.ericson-special-service-area .ericson-special-service-bg-2 {
   position: absolute;
   bottom: 15%;
   right: 5%;
@@ -4551,7 +4558,7 @@ New CSS
   }
 }
 
-.karx-special-service-box {
+.ericson-special-service-box {
   text-align: center;
   position: relative;
   border: 1px solid #e8e7e7;
@@ -4559,20 +4566,20 @@ New CSS
   overflow: hidden;
   padding: 40px;
 }
-.karx-special-service-box:hover .special-service-img {
+.ericson-special-service-box:hover .special-service-img {
   animation: icon-bounce 0.8s 1;
 }
 @media (max-width: 767px) {
-  .karx-special-service-box {
+  .ericson-special-service-box {
     padding: 40px 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-special-service-box {
+  .ericson-special-service-box {
     padding: 40px;
   }
 }
-.karx-special-service-box .special-service-box-bg {
+.ericson-special-service-box .special-service-box-bg {
   position: absolute;
   right: -100px;
   top: -100px;
@@ -4597,12 +4604,12 @@ New CSS
 }
 
 .special-service-btn:hover a {
-  background: #ff630e;
+  background: #C71116;
   color: #ffffff;
 }
 
-.karx-special-service-box:hover .special-service-no span {
-  color: #ff630e;
+.ericson-special-service-box:hover .special-service-no span {
+  color: #C71116;
 }
 
 .special-service-img-area {
@@ -4630,7 +4637,7 @@ New CSS
 .special-service-img-area .special-service-img::before {
   position: absolute;
   content: "";
-  background: #ff630e;
+  background: #C71116;
   width: 106%;
   height: 100%;
   top: 0;
@@ -4647,39 +4654,39 @@ New CSS
   color: #1a213e;
 }
 .special-service-text .special-service-title:hover a {
-  color: #ff630e;
+  color: #C71116;
 }
 
 /*  Special Service 02  */
-.karx-special-feature-bg {
+.ericson-special-feature-bg {
   background-color: #fff;
   max-width: 1660px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.karx-feature-2-single {
+.ericson-feature-2-single {
   border: 1px solid #d4d5d9;
   padding: 0 40px;
 }
 @media (max-width: 767px) {
-  .karx-feature-2-single {
+  .ericson-feature-2-single {
     padding: 0 30px;
   }
 }
 
-.karx-feature-2-title {
+.ericson-feature-2-title {
   font-size: 24px;
 }
-.karx-feature-2-title:hover a {
-  color: #ff630e;
+.ericson-feature-2-title:hover a {
+  color: #C71116;
 }
 
-.karx-feature-2-img:hover {
+.ericson-feature-2-img:hover {
   filter: grayscale(100%);
 }
 
-.karx-feature-2-btn {
+.ericson-feature-2-btn {
   height: 60px;
   line-height: 60px;
   font-size: 16px;
@@ -4690,10 +4697,10 @@ New CSS
   font-weight: 600;
   color: #1a213e;
 }
-.karx-feature-2-btn:hover {
+.ericson-feature-2-btn:hover {
   color: #fff;
-  background-color: #ff630e;
-  border-color: #ff630e;
+  background-color: #C71116;
+  border-color: #C71116;
 }
 
 /*
@@ -4702,24 +4709,24 @@ New CSS
 09. Market
 ******************************************************* 
 *************************************************************** */
-.karx-market-img-area {
+.ericson-market-img-area {
   position: relative;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-market-img-area {
+  .ericson-market-img-area {
     height: 500px;
   }
 }
 @media (max-width: 767px) {
-  .karx-market-img-area {
+  .ericson-market-img-area {
     height: 300px;
   }
 }
-.karx-market-img-area img {
+.ericson-market-img-area img {
   height: 100%;
 }
 
-.karx-market-img-area::before {
+.ericson-market-img-area::before {
   position: absolute;
   content: "";
   width: 100%;
@@ -4730,32 +4737,32 @@ New CSS
   opacity: 0.3;
 }
 
-.karx-market-shape-wrapper {
+.ericson-market-shape-wrapper {
   position: absolute;
   right: 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-market-shape-wrapper {
+  .ericson-market-shape-wrapper {
     width: 35%;
   }
 }
 @media (max-width: 767px) {
-  .karx-market-shape-wrapper {
+  .ericson-market-shape-wrapper {
     width: 40%;
   }
 }
 
-.karx-market-play {
+.ericson-market-play {
   position: absolute;
   right: 10%;
   z-index: 9;
   top: 135px;
 }
-.karx-market-play .karx-play-btn {
+.ericson-market-play .ericson-play-btn {
   font-size: 30px;
   display: flex;
   color: #ffffff;
-  background: #ff630e;
+  background: #C71116;
   border-radius: 50%;
   cursor: pointer;
   position: relative;
@@ -4766,7 +4773,7 @@ New CSS
   z-index: 1;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-market-play .karx-play-btn {
+  .ericson-market-play .ericson-play-btn {
     font-size: 25px;
     width: 100px;
     height: 100px;
@@ -4774,14 +4781,14 @@ New CSS
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-market-play .karx-play-btn {
+  .ericson-market-play .ericson-play-btn {
     width: 90px;
     height: 90px;
     bottom: 75px;
   }
 }
 @media (max-width: 767px) {
-  .karx-market-play .karx-play-btn {
+  .ericson-market-play .ericson-play-btn {
     width: 80px;
     height: 80px;
     bottom: 105px;
@@ -4789,13 +4796,13 @@ New CSS
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-market-play .karx-play-btn {
+  .ericson-market-play .ericson-play-btn {
     width: 90px;
     height: 90px;
     bottom: 100px;
   }
 }
-.karx-market-play .karx-play-btn i {
+.ericson-market-play .ericson-play-btn i {
   font-size: 25px;
   transition: all linear 0.3s;
   -webkit-transition: all linear 0.3s;
@@ -4803,32 +4810,32 @@ New CSS
   -ms-transition: all linear 0.3s;
   -o-transition: all linear 0.3s;
 }
-.karx-market-play .karx-play-btn:hover {
+.ericson-market-play .ericson-play-btn:hover {
   background: #1a213e;
 }
 
-.karx-market-task-wrapper {
+.ericson-market-task-wrapper {
   display: flex;
 }
 @media (max-width: 767px) {
-  .karx-market-task-wrapper {
+  .ericson-market-task-wrapper {
     flex-direction: column;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-market-task-wrapper {
+  .ericson-market-task-wrapper {
     flex-direction: row;
   }
 }
 
-.karx-market-task-list ul {
+.ericson-market-task-list ul {
   list-style: none;
 }
-.karx-market-task-list ul li {
+.ericson-market-task-list ul li {
   display: flex;
   align-items: center;
 }
-.karx-market-task-list ul li i {
+.ericson-market-task-list ul li i {
   font-size: 16px;
   color: #1a213e;
   background: #ffffff;
@@ -4842,49 +4849,49 @@ New CSS
   line-height: 40px;
   text-align: center;
 }
-.karx-market-task-list ul li:not(:last-child) {
+.ericson-market-task-list ul li:not(:last-child) {
   margin-bottom: 10px;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .karx-worktime-content-box.pr-100 {
+  .ericson-worktime-content-box.pr-100 {
     padding-right: 60px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-worktime-content-box.pr-100 {
+  .ericson-worktime-content-box.pr-100 {
     padding-right: 50px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-worktime-content-box.pr-100 {
+  .ericson-worktime-content-box.pr-100 {
     padding-right: 50px;
   }
 }
 
-.karx-market-progress-client {
+.ericson-market-progress-client {
   display: flex;
   align-items: center;
 }
 
-.karx-market-progress-project {
+.ericson-market-progress-project {
   display: flex;
   align-items: center;
   margin-left: 25px;
 }
 @media (max-width: 767px) {
-  .karx-market-progress-project {
+  .ericson-market-progress-project {
     margin-left: 0px;
   }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-market-progress-circle.mr-25 {
+  .ericson-market-progress-circle.mr-25 {
     margin-right: 20px;
   }
 }
 
-.karx-market-progress-title h5 {
+.ericson-market-progress-title h5 {
   display: inline-block;
   font-weight: 600;
   color: #1a213e;
@@ -4899,34 +4906,34 @@ New CSS
   position: relative;
 }
 
-.karx-market-task-img {
+.ericson-market-task-img {
   height: 140px;
   flex: 0 0 150px;
   max-width: 150px;
 }
 @media (max-width: 767px) {
-  .karx-market-task-img {
+  .ericson-market-task-img {
     margin-bottom: 40px;
     margin-right: 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-market-task-img {
+  .ericson-market-task-img {
     margin-bottom: 0px;
     margin-right: 30px;
   }
 }
-.karx-market-task-img img {
+.ericson-market-task-img img {
   height: 100%;
   object-fit: cover;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-market-task-img:is(.mr-30) {
+  .ericson-market-task-img:is(.mr-30) {
     margin-right: 25px;
   }
 }
 
-.karx-market-task-list {
+.ericson-market-task-list {
   width: 100%;
 }
 
@@ -4936,7 +4943,7 @@ New CSS
 10. Get Free
 ******************************************************* 
 *************************************************************** */
-.karx-get-free-img-area {
+.ericson-get-free-img-area {
   height: 850px;
 }
 
@@ -4944,109 +4951,109 @@ New CSS
   margin-top: -310px;
 }
 
-.karx-get-free-content-wrapper {
+.ericson-get-free-content-wrapper {
   position: relative;
   z-index: 3;
 }
 
-.karx-get-free-area {
+.ericson-get-free-area {
   position: relative;
   z-index: 1;
 }
 
-.karx-get-free-img-shape {
+.ericson-get-free-img-shape {
   background-repeat: no-repeat;
   height: 350px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-get-free-img-shape {
+  .ericson-get-free-img-shape {
     background-size: 100%;
   }
 }
 @media (max-width: 767px) {
-  .karx-get-free-img-shape {
+  .ericson-get-free-img-shape {
     background-size: 140%;
     background-position: 95% 0%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-get-free-img-shape {
+  .ericson-get-free-img-shape {
     background-size: 100%;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-hero-play.mt-100 {
+  .ericson-hero-play.mt-100 {
     margin-top: 40px;
   }
 }
 
-.karx-get-free-content-area {
+.ericson-get-free-content-area {
   z-index: 99;
   position: relative;
 }
 
-.karx-get-free-map-warpper {
+.ericson-get-free-map-warpper {
   width: 100%;
   height: 100%;
 }
-.karx-get-free-map-warpper iframe {
+.ericson-get-free-map-warpper iframe {
   width: 100%;
   height: 100%;
 }
 @media (max-width: 767px) {
-  .karx-get-free-map-warpper iframe {
+  .ericson-get-free-map-warpper iframe {
     height: 350px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-get-free-map-warpper iframe {
+  .ericson-get-free-map-warpper iframe {
     height: 450px;
   }
 }
 
-.karx-get-free-form-wrapper {
-  background-color: #ff630e;
+.ericson-get-free-form-wrapper {
+  background-color: #C71116;
   height: 100%;
   padding: 50px 60px;
   padding-bottom: 60px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-get-free-form-wrapper {
+  .ericson-get-free-form-wrapper {
     padding: 50px 40px;
     padding-bottom: 60px;
   }
 }
 @media (max-width: 767px) {
-  .karx-get-free-form-wrapper {
+  .ericson-get-free-form-wrapper {
     padding: 40px 30px;
     padding-bottom: 50px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-get-free-form-wrapper {
+  .ericson-get-free-form-wrapper {
     padding: 50px 60px;
     padding-bottom: 60px;
   }
 }
 
-.karx-free-form-title {
+.ericson-free-form-title {
   margin-bottom: 25px;
   font-size: 36px;
   color: #fff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-free-form-title {
+  .ericson-free-form-title {
     font-size: 32px;
   }
 }
 @media (max-width: 767px) {
-  .karx-free-form-title {
+  .ericson-free-form-title {
     font-size: 26px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-free-form-title {
+  .ericson-free-form-title {
     font-size: 32px;
   }
 }
@@ -5090,7 +5097,7 @@ New CSS
   line-height: 60px;
 }
 .get-free-form-btn:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
 /*
@@ -5099,9 +5106,9 @@ New CSS
 11. Our Product
 ******************************************************* 
 *************************************************************** */
-.karx-our-products-all-btn-wrapper .our-products-all-btn {
+.ericson-our-products-all-btn-wrapper .our-products-all-btn {
   display: inline-block;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #ffffff;
   font-size: 18px;
   text-transform: capitalize;
@@ -5110,17 +5117,17 @@ New CSS
   border-radius: 30px;
   justify-content: end;
 }
-.karx-our-products-all-btn-wrapper .our-products-all-btn i {
+.ericson-our-products-all-btn-wrapper .our-products-all-btn i {
   -webkit-transition: all 0.3s linear 0s;
   -moz-transition: all 0.3s linear 0s;
   -ms-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
 }
-.karx-our-products-all-btn-wrapper .our-products-all-btn:hover {
+.ericson-our-products-all-btn-wrapper .our-products-all-btn:hover {
   background-color: #1a213e;
 }
-.karx-our-products-all-btn-wrapper .our-products-all-btn:hover i {
+.ericson-our-products-all-btn-wrapper .our-products-all-btn:hover i {
   transform: translateX(5px);
   -webkit-transform: translateX(5px);
   -moz-transform: translateX(5px);
@@ -5128,33 +5135,33 @@ New CSS
   -o-transform: translateX(5px);
 }
 
-.karx-our-products-items:hover .karx-our-products-hover-wrapper {
+.ericson-our-products-items:hover .ericson-our-products-hover-wrapper {
   visibility: visible;
   opacity: 1;
   bottom: 0;
 }
 
-.karx-our-products-img {
+.ericson-our-products-img {
   position: relative;
   margin-bottom: 25px;
   overflow: hidden;
 }
-.karx-our-products-img .karx-our-product-new span {
+.ericson-our-products-img .ericson-our-product-new span {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #ffffff;
   padding: 12px 35px;
   position: absolute;
   top: 0;
   display: none;
 }
-.karx-our-products-img .karx-our-product-new:is(.new-active) span {
+.ericson-our-products-img .ericson-our-product-new:is(.new-active) span {
   display: inline-block;
 }
 
-.karx-our-products-hover-wrapper {
+.ericson-our-products-hover-wrapper {
   position: absolute;
   opacity: 0;
   visibility: hidden;
@@ -5162,7 +5169,7 @@ New CSS
   left: 0;
   right: 0;
   height: auto;
-  background-color: #ff630e;
+  background-color: #C71116;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -5175,18 +5182,18 @@ New CSS
   transition: all 0.3s linear 0s;
 }
 @media (max-width: 767px) {
-  .karx-our-products-hover-wrapper {
+  .ericson-our-products-hover-wrapper {
     padding: 30px 25px;
     margin: 0 25px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-our-products-hover-wrapper {
+  .ericson-our-products-hover-wrapper {
     padding: 30px 25px;
     margin: 0 30px;
   }
 }
-.karx-our-products-hover-wrapper a {
+.ericson-our-products-hover-wrapper a {
   font-size: 18px;
   color: #6a6b71;
   background-color: #ffffff;
@@ -5194,12 +5201,12 @@ New CSS
   padding: 15px 20px;
   margin: 0 5px;
 }
-.karx-our-products-hover-wrapper a:hover {
+.ericson-our-products-hover-wrapper a:hover {
   background-color: #1a213e;
   color: #ffffff;
 }
 
-.karx-our-products-title {
+.ericson-our-products-title {
   display: block;
   font-size: 22px;
   font-weight: 600;
@@ -5207,8 +5214,8 @@ New CSS
   margin-bottom: 10px;
   color: #1a213e;
 }
-.karx-our-products-title:hover a {
-  color: #ff630e;
+.ericson-our-products-title:hover a {
+  color: #C71116;
 }
 
 .product-price {
@@ -5216,7 +5223,7 @@ New CSS
   font-weight: 500;
 }
 
-.karx-our-products-buy-btn {
+.ericson-our-products-buy-btn {
   font-size: 16px;
   text-transform: capitalize;
   font-weight: 600;
@@ -5228,102 +5235,102 @@ New CSS
   height: 60px;
   line-height: 60px;
 }
-.karx-our-products-buy-btn i {
+.ericson-our-products-buy-btn i {
   display: inline-block;
   margin-left: 5px;
 }
-.karx-our-products-buy-btn:hover {
-  background-color: #ff630e;
-  border-color: #ff630e;
+.ericson-our-products-buy-btn:hover {
+  background-color: #C71116;
+  border-color: #C71116;
   color: #fff;
 }
 
 /* Popular Products */
-.karx-popular-product-item-img {
+.ericson-popular-product-item-img {
   flex: 0 0 90px;
   max-width: 90px;
   padding: 15px;
   background-color: #fff;
   margin-right: 20px;
 }
-.karx-popular-product-item-img:hover {
+.ericson-popular-product-item-img:hover {
   filter: grayscale(90%);
   -webkit-filter: grayscale(90%);
 }
 
-.karx-popular-product-item {
+.ericson-popular-product-item {
   display: flex;
 }
-.karx-popular-product-item:not(:last-child) {
+.ericson-popular-product-item:not(:last-child) {
   margin-bottom: 30px;
 }
 
-.karx-popular-product-item-rating {
+.ericson-popular-product-item-rating {
   margin-bottom: 5px;
 }
-.karx-popular-product-item-rating i {
+.ericson-popular-product-item-rating i {
   font-size: 12px;
   font-weight: 700;
   color: #ff5e14;
 }
 
-.karx-popular-product-item-title {
+.ericson-popular-product-item-title {
   font-size: 18px;
   margin-bottom: 5px;
 }
-.karx-popular-product-item-title:hover a {
-  color: #ff630e;
+.ericson-popular-product-item-title:hover a {
+  color: #C71116;
 }
 
-.karx-popular-product-item-content .product-price {
+.ericson-popular-product-item-content .product-price {
   font-size: 14px;
 }
 
-.karx-product-list-wrapper:hover .karx-our-products-hover-wrapper {
+.ericson-product-list-wrapper:hover .ericson-our-products-hover-wrapper {
   visibility: visible;
   opacity: 1;
   bottom: 0;
 }
 
-.karx-product-list-title {
+.ericson-product-list-title {
   font-size: 24px;
 }
-.karx-product-list-title:hover a {
-  color: #ff630e;
+.ericson-product-list-title:hover a {
+  color: #C71116;
 }
 
-.karx-product-rating i {
+.ericson-product-rating i {
   font-size: 14px;
-  color: #ff630e;
+  color: #C71116;
   display: inline-block;
   font-weight: 700;
 }
-.karx-product-rating:is(.d-block) {
+.ericson-product-rating:is(.d-block) {
   margin-bottom: 5px;
 }
 
-.karx-our-products-buy-btn.pr-60.pl-60 {
+.ericson-our-products-buy-btn.pr-60.pl-60 {
   padding-left: 60px;
   padding-right: 60px;
 }
 
-.karx-product-list-wrapper .karx-our-products-img {
+.ericson-product-list-wrapper .ericson-our-products-img {
   margin-bottom: 0;
 }
 @media (max-width: 767px) {
-  .karx-product-list-wrapper .karx-our-products-img {
+  .ericson-product-list-wrapper .ericson-our-products-img {
     margin-bottom: 35px;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-product-list-content.pl-15 {
+  .ericson-product-list-content.pl-15 {
     padding-left: 0;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-our-products-title-wrapper.b-25.mb-lg-0 {
+  .ericson-our-products-title-wrapper.b-25.mb-lg-0 {
     margin-bottom: 25px;
   }
 }
@@ -5348,7 +5355,7 @@ New CSS
 }
 
 .product-tab-buttons button.active {
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
 }
 
@@ -5375,10 +5382,10 @@ New CSS
   right: 0;
 }
 
-.karx-shop-pagination ul li {
+.ericson-shop-pagination ul li {
   display: inline-block;
 }
-.karx-shop-pagination ul li span {
+.ericson-shop-pagination ul li span {
   width: 60px;
   height: 60px;
   line-height: 60px;
@@ -5392,11 +5399,11 @@ New CSS
   color: #1a213e;
   background-color: #f2f2f2;
 }
-.karx-shop-pagination ul li:not(:last-child) span {
+.ericson-shop-pagination ul li:not(:last-child) span {
   margin-right: 5px;
 }
-.karx-shop-pagination ul li:hover span {
-  background-color: #ff630e;
+.ericson-shop-pagination ul li:hover span {
+  background-color: #C71116;
   color: #fff;
 }
 
@@ -5406,7 +5413,7 @@ New CSS
 12. Price
 ******************************************************* 
 *************************************************************** */
-.karx-price-area {
+.ericson-price-area {
   background: #f1f3f2;
   position: relative;
 }
@@ -5426,71 +5433,71 @@ New CSS
   z-index: -1;
 }
 
-.karx-price-bg-shape .karx-price-shape-1 {
+.ericson-price-bg-shape .ericson-price-shape-1 {
   position: absolute;
   left: 5%;
   top: 5%;
 }
-.karx-price-bg-shape .karx-price-shape-2 {
+.ericson-price-bg-shape .ericson-price-shape-2 {
   position: absolute;
   bottom: 10%;
   left: 5%;
 }
-.karx-price-bg-shape .karx-price-shape-3 {
+.ericson-price-bg-shape .ericson-price-shape-3 {
   position: absolute;
   right: 5%;
   bottom: 10%;
 }
-.karx-price-bg-shape .karx-price-shape-4 {
+.ericson-price-bg-shape .ericson-price-shape-4 {
   position: absolute;
   right: 5%;
   top: 5%;
 }
 
-.karx-price-box {
+.ericson-price-box {
   border: 1px solid #e8e7e7;
   padding-bottom: 45px;
   background: #ffffff;
   position: relative;
 }
 
-.karx-price-box:hover .karx-price-package-name h4 {
+.ericson-price-box:hover .ericson-price-package-name h4 {
   color: #ffffff;
 }
-.karx-price-box:hover .karx-price-package-name h3 {
+.ericson-price-box:hover .ericson-price-package-name h3 {
   color: #ffffff;
 }
-.karx-price-box:hover .karx-price-package-name h3 span {
+.ericson-price-box:hover .ericson-price-package-name h3 span {
   color: #ffffff;
 }
-.karx-price-box:hover .karx-price-package-name p {
+.ericson-price-box:hover .ericson-price-package-name p {
   color: #fff;
 }
-.karx-price-box:hover .karx-price-box-header {
-  background: #ff630e;
+.ericson-price-box:hover .ericson-price-box-header {
+  background: #C71116;
 }
-.karx-price-box:is(.active) .karx-price-package-name h4 {
+.ericson-price-box:is(.active) .ericson-price-package-name h4 {
   color: #ffffff;
 }
-.karx-price-box:is(.active) .karx-price-package-name h3 {
+.ericson-price-box:is(.active) .ericson-price-package-name h3 {
   color: #ffffff;
 }
-.karx-price-box:is(.active) .karx-price-package-name h3 span {
+.ericson-price-box:is(.active) .ericson-price-package-name h3 span {
   color: #ffffff;
 }
-.karx-price-box:is(.active) .karx-price-package-name p {
+.ericson-price-box:is(.active) .ericson-price-package-name p {
   color: #fff;
 }
-.karx-price-box:is(.active) .karx-price-box-header {
-  background: #ff630e;
+.ericson-price-box:is(.active) .ericson-price-box-header {
+  background: #C71116;
 }
-.karx-price-box:is(.active) .karx-price-btn a {
+.ericson-price-box:is(.active) .ericson-price-btn a {
   color: #ffffff;
-  background: #ff630e;
-  border-color: #ff630e;
+  background: #C71116;
+  border-color: #C71116;
 }
 
-.karx-price-box-header {
+.ericson-price-box-header {
   padding-top: 40px;
   background: #f7f7f7;
   transition: all linear 0.3s;
@@ -5500,7 +5507,7 @@ New CSS
   -o-transition: all linear 0.3s;
 }
 
-.karx-price-package-name h4 {
+.ericson-price-package-name h4 {
   font-size: 24px;
   color: #707480;
   font-weight: 600;
@@ -5512,11 +5519,11 @@ New CSS
   -o-transition: all linear 0.3s;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-price-package-name h4 {
+  .ericson-price-package-name h4 {
     font-size: 22px;
   }
 }
-.karx-price-package-name h3 {
+.ericson-price-package-name h3 {
   font-size: 62px;
   font-weight: 700;
   color: #1a213e;
@@ -5528,31 +5535,31 @@ New CSS
   -o-transition: all linear 0.3s;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-price-package-name h3 {
+  .ericson-price-package-name h3 {
     font-size: 60px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-price-package-name h3 {
+  .ericson-price-package-name h3 {
     font-size: 50px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-price-package-name h3 {
+  .ericson-price-package-name h3 {
     font-size: 42px;
   }
 }
 @media (max-width: 767px) {
-  .karx-price-package-name h3 {
+  .ericson-price-package-name h3 {
     font-size: 40px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-price-package-name h3 {
+  .ericson-price-package-name h3 {
     font-size: 36px;
   }
 }
-.karx-price-package-name h3 span {
+.ericson-price-package-name h3 span {
   font-size: 20px;
   display: inline-block;
   transition: all linear 0.3s;
@@ -5561,7 +5568,7 @@ New CSS
   -ms-transition: all linear 0.3s;
   -o-transition: all linear 0.3s;
 }
-.karx-price-package-name p {
+.ericson-price-package-name p {
   transition: all linear 0.3s;
   -webkit-transition: all linear 0.3s;
   -moz-transition: all linear 0.3s;
@@ -5569,37 +5576,37 @@ New CSS
   -o-transition: all linear 0.3s;
 }
 
-.karx-price-logo {
+.ericson-price-logo {
   display: inline-block;
 }
-.karx-price-logo img {
+.ericson-price-logo img {
   padding: 15px 55px;
   border: 1px solid #e8e7e7;
   background: #ffffff;
   background: #ffffff;
 }
 
-.karx-price-box-content {
+.ericson-price-box-content {
   display: flex;
   justify-content: center;
   padding: 40px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-price-box-content {
+  .ericson-price-box-content {
     padding: 40px 30px;
   }
 }
-.karx-price-box-content ul {
+.ericson-price-box-content ul {
   list-style: none;
 }
-.karx-price-box-content ul li {
+.ericson-price-box-content ul li {
   font-size: 16px;
   font-weight: 400;
   color: #707480;
   display: flex;
   align-items: center;
 }
-.karx-price-box-content ul li i {
+.ericson-price-box-content ul li i {
   color: #000;
   border: 1px solid #e8e7e7;
   height: 35px;
@@ -5614,16 +5621,16 @@ New CSS
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-.karx-price-box-content ul li:not(:last-child) {
+.ericson-price-box-content ul li:not(:last-child) {
   margin-bottom: 15px;
 }
 
-.karx-price-box-button {
+.ericson-price-box-button {
   display: flex;
   justify-content: center;
 }
 
-.karx-price-btn .price-btn {
+.ericson-price-btn .price-btn {
   text-transform: capitalize;
   color: #1a213e;
   border: 1px solid #dbdcdf;
@@ -5640,13 +5647,13 @@ New CSS
   -ms-transition: all linear 0.3s;
   -o-transition: all linear 0.3s;
 }
-.karx-price-btn .price-btn:hover {
+.ericson-price-btn .price-btn:hover {
   color: #ffffff;
-  background: #ff630e;
-  border-color: #ff630e;
+  background: #C71116;
+  border-color: #C71116;
 }
 
-.karx-price-box-2 {
+.ericson-price-box-2 {
   border: 1px solid #e8e7e7;
   padding-bottom: 45px;
   background: #ffffff;
@@ -5655,30 +5662,30 @@ New CSS
   margin-left: auto;
   margin-right: auto;
 }
-.karx-price-box-2 .karx-price-logo img {
+.ericson-price-box-2 .ericson-price-logo img {
   padding: 15px 55px;
   border-radius: 5px;
   background-color: #f1f3f2;
   border: transparent;
 }
-.karx-price-box-2:hover .karx-price-logo img {
-  background-color: #ff630e;
+.ericson-price-box-2:hover .ericson-price-logo img {
+  background-color: #C71116;
 }
-.karx-price-box-2:hover::after {
-  background-color: #ff630e;
+.ericson-price-box-2:hover::after {
+  background-color: #C71116;
 }
-.karx-price-box-2:is(.active) .karx-price-logo img {
-  background-color: #ff630e;
+.ericson-price-box-2:is(.active) .ericson-price-logo img {
+  background-color: #C71116;
 }
-.karx-price-box-2:is(.active) .karx-price-btn a {
+.ericson-price-box-2:is(.active) .ericson-price-btn a {
   color: #ffffff;
-  background: #ff630e;
-  border-color: #ff630e;
+  background: #C71116;
+  border-color: #C71116;
 }
-.karx-price-box-2:is(.active)::after {
-  background-color: #ff630e;
+.ericson-price-box-2:is(.active)::after {
+  background-color: #C71116;
 }
-.karx-price-box-2::after {
+.ericson-price-box-2::after {
   position: absolute;
   content: "";
   background-color: transparent;
@@ -5701,34 +5708,34 @@ New CSS
 13. Member
 ******************************************************* 
 *************************************************************** */
-.karx-member-custom-row {
+.ericson-member-custom-row {
   display: flex;
   justify-content: center;
 }
 
-.karx-member-name .karx-member-name-title {
+.ericson-member-name .ericson-member-name-title {
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 5px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-member-name .karx-member-name-title {
+  .ericson-member-name .ericson-member-name-title {
     font-size: 24px;
   }
 }
-.karx-member-name .karx-member-name-title a {
+.ericson-member-name .ericson-member-name-title a {
   color: #1a213e;
 }
-.karx-member-name .karx-member-name-title a:hover {
-  color: #ff630e;
+.ericson-member-name .ericson-member-name-title a:hover {
+  color: #C71116;
 }
-.karx-member-name p {
+.ericson-member-name p {
   font-size: 16px;
   margin-bottom: 0;
   letter-spacing: 1px;
 }
 
-.karx-member-link a {
+.ericson-member-link a {
   display: inline-block;
   font-size: 15px;
   background: #f1f3f2;
@@ -5740,42 +5747,42 @@ New CSS
   padding: 0;
 }
 
-.karx-member-link a:hover {
-  background: #ff630e;
+.ericson-member-link a:hover {
+  background: #C71116;
   color: #ffffff;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-member-area.pb-120.pt-80 {
+  .ericson-member-area.pb-120.pt-80 {
     padding-top: 11px;
     padding-bottom: 80px;
   }
 }
-.karx-member-img {
+.ericson-member-img {
   overflow: hidden;
 }
 
-.karx-member-img img {
+.ericson-member-img img {
   transform: scale(1);
   transition: all 0.9s;
 }
-.karx-member-img img:hover {
+.ericson-member-img img:hover {
   transform: scale(1.1);
 }
 
-.karx-member-box-2 {
+.ericson-member-box-2 {
   position: relative;
   overflow: hidden;
 }
-.karx-member-box-2 .karx-member-img {
+.ericson-member-box-2 .ericson-member-img {
   width: 100%;
 }
-.karx-member-box-2 .karx-member-img img {
+.ericson-member-box-2 .ericson-member-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.karx-member-box-2 .karx-member-name {
+.ericson-member-box-2 .ericson-member-name {
   position: absolute;
   bottom: -20%;
   left: 0;
@@ -5793,45 +5800,45 @@ New CSS
   margin: 0 30px;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1799px) {
-  .karx-member-box-2 .karx-member-name {
+  .ericson-member-box-2 .ericson-member-name {
     padding-left: 20px;
     padding-right: 20px;
     margin: 0 20px;
   }
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .karx-member-box-2 .karx-member-name {
+  .ericson-member-box-2 .ericson-member-name {
     padding-left: 10px;
     padding-right: 10px;
     margin: 0 10px;
   }
 }
 @media (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-member-box-2 .karx-member-name {
+  .ericson-member-box-2 .ericson-member-name {
     padding-left: 20px;
     padding-right: 20px;
     margin: 0 20px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-member-box-2 .karx-member-name {
+  .ericson-member-box-2 .ericson-member-name {
     padding-left: 30px;
     padding-right: 30px;
     margin: 0 30px;
   }
 }
-.karx-member-box-2 .karx-member-name p {
+.ericson-member-box-2 .ericson-member-name p {
   text-transform: uppercase;
-  color: #ff630e;
+  color: #C71116;
 }
-.karx-member-box-2 .karx-member-link a {
+.ericson-member-box-2 .ericson-member-link a {
   background: none;
   margin: 0;
 }
-.karx-member-box-2 .karx-member-link a:hover {
-  color: #ff630e;
+.ericson-member-box-2 .ericson-member-link a:hover {
+  color: #C71116;
 }
-.karx-member-box-2:hover .karx-member-name {
+.ericson-member-box-2:hover .ericson-member-name {
   visibility: visible;
   opacity: 1;
   bottom: 0;
@@ -5847,35 +5854,35 @@ New CSS
   margin-top: -116px;
 }
 
-.karx-worktime-box {
+.ericson-worktime-box {
   position: relative;
 }
 
-.karx-worktime-title h2 {
+.ericson-worktime-title h2 {
   font-size: 50px;
   color: #ffffff;
   font-weight: 700;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-worktime-title h2 {
+  .ericson-worktime-title h2 {
     font-size: 42px;
   }
 }
 @media (max-width: 767px) {
-  .karx-worktime-title h2 {
+  .ericson-worktime-title h2 {
     font-size: 36px;
   }
 }
 
-.karx-worktime-schedule ul {
+.ericson-worktime-schedule ul {
   list-style: none;
 }
-.karx-worktime-schedule ul li {
+.ericson-worktime-schedule ul li {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid #ffffff;
 }
-.karx-worktime-schedule ul li p {
+.ericson-worktime-schedule ul li p {
   color: #ffffff;
   font-size: 20px;
   font-weight: 600;
@@ -5884,77 +5891,77 @@ New CSS
   text-transform: lowercase;
 }
 @media (max-width: 767px) {
-  .karx-worktime-schedule ul li p {
+  .ericson-worktime-schedule ul li p {
     font-size: 18px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-worktime-schedule ul li p {
+  .ericson-worktime-schedule ul li p {
     font-size: 20px;
   }
 }
-.karx-worktime-schedule ul .border-bottom-none {
+.ericson-worktime-schedule ul .border-bottom-none {
   border-bottom: none;
 }
 
-.karx-worktime-btn a {
+.ericson-worktime-btn a {
   font-size: 20px;
   font-weight: 500;
   color: #ffffff;
-  background: #ff630e;
+  background: #C71116;
   padding: 20px 56px;
   display: inline-block;
 }
-.karx-worktime-btn a:hover {
+.ericson-worktime-btn a:hover {
   background: #1a213e;
   color: #fff;
 }
 
-.karx-worktime-box-bg {
+.ericson-worktime-box-bg {
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.karx-worktime-box-content {
+.ericson-worktime-box-content {
   padding: 30px;
 }
-.karx-worktime-box-content .karx-worktime-content-title {
+.ericson-worktime-box-content .ericson-worktime-content-title {
   font-size: 46px;
   font-weight: 700;
   color: #ffffff;
   margin-bottom: 10px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-worktime-box-content .karx-worktime-content-title {
+  .ericson-worktime-box-content .ericson-worktime-content-title {
     font-size: 42px;
   }
 }
 @media (max-width: 767px) {
-  .karx-worktime-box-content .karx-worktime-content-title {
+  .ericson-worktime-box-content .ericson-worktime-content-title {
     font-size: 40px;
   }
 }
-.karx-worktime-box-content .karx-count-text {
+.ericson-worktime-box-content .ericson-count-text {
   font-size: 22px;
   font-weight: 700;
   color: #ffffff;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-worktime-box-content .karx-count-text {
+  .ericson-worktime-box-content .ericson-count-text {
     font-size: 18px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-worktime-box-content .karx-count-text {
+  .ericson-worktime-box-content .ericson-count-text {
     font-size: 20px;
   }
 }
 
-.karx-worktime-area {
+.ericson-worktime-area {
   position: relative;
 }
 
-.karx-worktime-left {
+.ericson-worktime-left {
   position: absolute;
   left: 0;
   top: 0;
@@ -5964,12 +5971,12 @@ New CSS
   background-size: cover;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-worktime-left {
+  .ericson-worktime-left {
     width: 100%;
   }
 }
 
-.karx-worktime-right {
+.ericson-worktime-right {
   position: absolute;
   right: 0;
   top: 0;
@@ -5977,28 +5984,28 @@ New CSS
   height: 100%;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-worktime-right {
+  .ericson-worktime-right {
     width: 100%;
     position: static;
   }
 }
-.karx-worktime-right iframe {
+.ericson-worktime-right iframe {
   width: 100%;
   height: 100%;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-worktime-right iframe {
+  .ericson-worktime-right iframe {
     height: 350px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-worktime-content-box.pt-105.pr-100.pb-170 {
+  .ericson-worktime-content-box.pt-105.pr-100.pb-170 {
     padding-right: 0;
   }
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-worktime-content-box.pr-100 {
+  .ericson-worktime-content-box.pr-100 {
     padding-right: 0;
   }
 }
@@ -6009,11 +6016,11 @@ New CSS
 15. Our Project
 ******************************************************* 
 *************************************************************** */
-.karx-single-recent-project-box-1 {
+.ericson-single-recent-project-box-1 {
   position: relative;
 }
 
-.karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1 {
+.ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1 {
   position: absolute;
   background: #ffffff;
   left: 30px;
@@ -6026,34 +6033,34 @@ New CSS
   align-items: center;
   opacity: 0;
   visibility: hidden;
-  border-left: 10px solid #ff630e;
+  border-left: 10px solid #C71116;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1 {
+  .ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1 {
     left: 11px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1 {
+  .ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1 {
     left: 135px;
     grid-gap: 100px;
   }
 }
 @media (max-width: 767px) {
-  .karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1 {
+  .ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1 {
     left: 0px;
     padding: 18px 14px;
     grid-gap: 20px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1 {
+  .ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1 {
     left: 90px;
     grid-gap: 100px;
   }
 }
 
-.karx-single-recent-project-content-left-1 span.karx-single-recent-project-content-subtitle-1 {
+.ericson-single-recent-project-content-left-1 span.ericson-single-recent-project-content-subtitle-1 {
   font-size: 20px;
   font-weight: 600;
   color: #707480;
@@ -6061,84 +6068,84 @@ New CSS
   margin-bottom: 5px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-single-recent-project-content-left-1 span.karx-single-recent-project-content-subtitle-1 {
+  .ericson-single-recent-project-content-left-1 span.ericson-single-recent-project-content-subtitle-1 {
     font-size: 18px;
   }
 }
 @media (max-width: 767px) {
-  .karx-single-recent-project-content-left-1 span.karx-single-recent-project-content-subtitle-1 {
+  .ericson-single-recent-project-content-left-1 span.ericson-single-recent-project-content-subtitle-1 {
     font-size: 16px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-single-recent-project-content-left-1 span.karx-single-recent-project-content-subtitle-1 {
+  .ericson-single-recent-project-content-left-1 span.ericson-single-recent-project-content-subtitle-1 {
     font-size: 18px;
   }
 }
 
-.karx-single-recent-project-box-1 .karx-single-recent-project-content-wrapper-1:is(.karx-single-recent-project-content-wrapper-2) {
+.ericson-single-recent-project-box-1 .ericson-single-recent-project-content-wrapper-1:is(.ericson-single-recent-project-content-wrapper-2) {
   left: 60px;
   right: 60px;
 }
 
-.karx-single-plus-btn-link-1 {
+.ericson-single-plus-btn-link-1 {
   width: 70px;
   height: 70px;
   display: inline-block;
   line-height: 70px;
   text-align: center;
-  background: #ff630e;
+  background: #C71116;
   color: #ffffff;
   font-size: 26px;
   border-radius: 5px;
 }
 
-.karx-single-plus-btn-link-1:hover {
+.ericson-single-plus-btn-link-1:hover {
   background: #1a213e;
   color: #ffffff;
 }
 
-.karx-single-recent-project-box-1 {
+.ericson-single-recent-project-box-1 {
   display: inline-block;
 }
 
-.karx-single-recent-project-content-title-1 {
+.ericson-single-recent-project-content-title-1 {
   font-size: 30px;
   font-weight: 600;
   margin: 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-single-recent-project-content-title-1 {
+  .ericson-single-recent-project-content-title-1 {
     font-size: 24px;
   }
 }
 @media (max-width: 767px) {
-  .karx-single-recent-project-content-title-1 {
+  .ericson-single-recent-project-content-title-1 {
     font-size: 20px;
   }
 }
-.karx-single-recent-project-content-title-1 a {
+.ericson-single-recent-project-content-title-1 a {
   text-decoration: none;
   color: #1a213e;
 }
-.karx-single-recent-project-content-title-1 a:hover {
-  color: #ff630e;
+.ericson-single-recent-project-content-title-1 a:hover {
+  color: #C71116;
 }
 
-.recent-project-active-1 .swiper-slide.swiper-slide-active .karx-single-recent-project-content-wrapper-1 {
+.recent-project-active-1 .swiper-slide.swiper-slide-active .ericson-single-recent-project-content-wrapper-1 {
   opacity: 1;
   visibility: visible;
   box-shadow: 0px 10px 20px 0px rgba(130, 132, 134, 0.08);
 }
 
-.karx-single-recent-project-box-1 img {
+.ericson-single-recent-project-box-1 img {
   height: 560px;
   object-fit: cover;
   transition: all 0.5s;
   width: 100%;
 }
 
-.swiper-slide.swiper-slide-active .karx-single-recent-project-box-1 img {
+.swiper-slide.swiper-slide-active .ericson-single-recent-project-box-1 img {
   height: 580px;
   width: 100%;
   object-fit: cover;
@@ -6152,46 +6159,46 @@ New CSS
   align-items: center;
 }
 
-.karx-single-recent-project-box-1 {
+.ericson-single-recent-project-box-1 {
   height: 580px;
   display: flex;
   align-items: center;
 }
 
-.karx-single-recent-project-box-thumb-1 {
+.ericson-single-recent-project-box-thumb-1 {
   width: 100%;
 }
 
-.karx-single-recent-project-box-thumb-1 img {
+.ericson-single-recent-project-box-thumb-1 img {
   width: 100%;
 }
 
-.karx-single-recent-project-box-thumb-2 {
+.ericson-single-recent-project-box-thumb-2 {
   width: 100%;
 }
 
-.karx-single-recent-project-box-thumb-2 img {
+.ericson-single-recent-project-box-thumb-2 img {
   width: 100%;
 }
 
-.karx-our-project-progation .swiper-pagination.text-right.swiper-pagination-clickable.swiper-pagination-bullets {
+.ericson-our-project-progation .swiper-pagination.text-right.swiper-pagination-clickable.swiper-pagination-bullets {
   right: 3%;
 }
-.karx-our-project-progation span {
+.ericson-our-project-progation span {
   background-color: #1a213e;
   width: 20px;
   height: 20px;
   border-radius: 50%;
   margin: 0px 15px;
 }
-.karx-our-project-progation span.swiper-pagination-bullet-active {
+.ericson-our-project-progation span.swiper-pagination-bullet-active {
   border: 6px solid #ffffff;
   outline: 1px solid #1a213e;
 }
 
-.karx-recent-project-all .karx-recent-project-all-btn:hover {
-  color: #ff630e;
-  border-color: #ff630e;
+.ericson-recent-project-all .ericson-recent-project-all-btn:hover {
+  color: #C71116;
+  border-color: #C71116;
 }
 
 /*
@@ -6200,7 +6207,7 @@ New CSS
 16. Testimonial
 ******************************************************* 
 *************************************************************** */
-.karx-testimonial-area {
+.ericson-testimonial-area {
   position: relative;
 }
 
@@ -6216,36 +6223,36 @@ New CSS
   right: 0;
 }
 
-.karx-testimonial-bg {
+.ericson-testimonial-bg {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-.karx-testimonial-box {
+.ericson-testimonial-box {
   background: #ffffff;
 }
 
-.karx-testimonial-star i {
+.ericson-testimonial-star i {
   display: inline-block;
-  color: #ff630e;
+  color: #C71116;
   font-size: 16px;
   margin-right: 5px;
 }
 
-.karx-testimonial-person-wrapper {
+.ericson-testimonial-person-wrapper {
   display: flex;
   align-items: center;
   border-top: 1px solid #e8e7e7;
   padding: 40px;
 }
 @media (max-width: 767px) {
-  .karx-testimonial-person-wrapper {
+  .ericson-testimonial-person-wrapper {
     padding: 40px 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-testimonial-person-wrapper {
+  .ericson-testimonial-person-wrapper {
     padding: 40px;
   }
 }
@@ -6279,98 +6286,98 @@ New CSS
   color: #1a213e;
 }
 .test-author:hover a {
-  color: #ff630e;
+  color: #C71116;
 }
 
-.karx-testimonial-slide-btn {
+.ericson-testimonial-slide-btn {
   margin-top: 50px;
 }
-.karx-testimonial-slide-btn .testimonial-pagination {
+.ericson-testimonial-slide-btn .testimonial-pagination {
   text-align: center;
 }
-.karx-testimonial-slide-btn .testimonial-pagination span {
+.ericson-testimonial-slide-btn .testimonial-pagination span {
   background-color: #1a213e;
   width: 20px;
   height: 20px;
   border-radius: 50%;
   margin: 0px 5px;
 }
-.karx-testimonial-slide-btn .testimonial-pagination span.swiper-pagination-bullet-active {
+.ericson-testimonial-slide-btn .testimonial-pagination span.swiper-pagination-bullet-active {
   border: 6px solid #fff;
   outline: 1px solid #000;
 }
 
-.karx-testimonial-text {
+.ericson-testimonial-text {
   padding: 50px 40px;
 }
 @media (max-width: 767px) {
-  .karx-testimonial-text {
+  .ericson-testimonial-text {
     padding: 50px 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-testimonial-text {
+  .ericson-testimonial-text {
     padding: 50px 40px;
   }
 }
-.karx-testimonial-text p {
+.ericson-testimonial-text p {
   margin-bottom: 0;
 }
 
-.karx-testimonial-slider-content i {
+.ericson-testimonial-slider-content i {
   display: inline-block;
   font-size: 70px;
-  color: #ff630e;
+  color: #C71116;
   margin-bottom: 50px;
 }
-.karx-testimonial-slider-content h6 {
+.ericson-testimonial-slider-content h6 {
   font-size: 22px;
   font-weight: 500;
   line-height: 42px;
   color: #707480;
 }
 
-.karx-testimonial-person {
+.ericson-testimonial-person {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.karx-testimonial-person .testimonial-person-img {
+.ericson-testimonial-person .testimonial-person-img {
   width: 90px;
   height: 90px;
   margin-right: 20px;
 }
-.karx-testimonial-person .testimonial-person-img img {
+.ericson-testimonial-person .testimonial-person-img img {
   width: 100%;
 }
-.karx-testimonial-person .testimonial-person-name a {
+.ericson-testimonial-person .testimonial-person-name a {
   text-transform: capitalize;
   font-size: 24px;
   font-weight: 500;
   color: #1a213e;
 }
-.karx-testimonial-person .testimonial-person-name a:hover {
-  color: #ff630e;
+.ericson-testimonial-person .testimonial-person-name a:hover {
+  color: #C71116;
 }
-.karx-testimonial-person .testimonial-person-name span {
+.ericson-testimonial-person .testimonial-person-name span {
   color: #707480;
   font-size: 15px;
   display: block;
 }
 
-.karx_testimonial_thumbs_active .swiper-slide.swiper-slide-thumb-active .testimonial-person-name a {
-  color: #ff630e;
+.ericson_testimonial_thumbs_active .swiper-slide.swiper-slide-thumb-active .testimonial-person-name a {
+  color: #C71116;
 }
 
-.karx-test-width {
+.ericson-test-width {
   width: 100%;
 }
 
-.karx-testimonial-slider-area {
+.ericson-testimonial-slider-area {
   position: relative;
 }
 
-.karx-test2-message-navigation span {
+.ericson-test2-message-navigation span {
   display: inline-block;
   color: #707480;
   position: absolute;
@@ -6382,43 +6389,43 @@ New CSS
   transition: 0.3s;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-test2-message-navigation span {
+  .ericson-test2-message-navigation span {
     left: -30px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-test2-message-navigation span {
+  .ericson-test2-message-navigation span {
     left: -20px;
   }
 }
 @media (max-width: 767px) {
-  .karx-test2-message-navigation span {
+  .ericson-test2-message-navigation span {
     display: none;
   }
 }
-.karx-test2-message-navigation span i {
+.ericson-test2-message-navigation span i {
   font-size: 40px;
   font-weight: 300;
 }
-.karx-test2-message-navigation span:hover {
-  color: #ff630e;
+.ericson-test2-message-navigation span:hover {
+  color: #C71116;
 }
-.karx-test2-message-navigation span.karx-testimonial-2-slide-next {
+.ericson-test2-message-navigation span.ericson-testimonial-2-slide-next {
   left: auto;
   right: -60px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-test2-message-navigation span.karx-testimonial-2-slide-next {
+  .ericson-test2-message-navigation span.ericson-testimonial-2-slide-next {
     right: -30px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-test2-message-navigation span.karx-testimonial-2-slide-next {
+  .ericson-test2-message-navigation span.ericson-testimonial-2-slide-next {
     right: -20px;
   }
 }
 
-.testimonial-2-wrapper:hover .karx-test2-message-navigation span {
+.testimonial-2-wrapper:hover .ericson-test2-message-navigation span {
   opacity: 1;
   visibility: visible;
 }
@@ -6432,37 +6439,37 @@ New CSS
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .karx-popular-service-left.pl-60.pr-60 {
+  .ericson-popular-service-left.pl-60.pr-60 {
     padding-left: 50px;
     padding-right: 50px;
   }
 }
 @media (max-width: 767px) {
-  .karx-popular-service-left.pl-60.pr-60 {
+  .ericson-popular-service-left.pl-60.pr-60 {
     padding: 50px 40px;
     padding-bottom: 25px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-popular-service-left.pl-60.pr-60 {
+  .ericson-popular-service-left.pl-60.pr-60 {
     padding: 60px 50px;
     padding-bottom: 35px;
   }
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-popular-service-right.ml-40 {
+  .ericson-popular-service-right.ml-40 {
     margin-left: 0;
   }
 }
 
 @media (max-width: 767px) {
-  .karx-company-benefits-items.d-flex {
+  .ericson-company-benefits-items.d-flex {
     flex-direction: column;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-company-benefits-items.d-flex {
+  .ericson-company-benefits-items.d-flex {
     flex-direction: row;
   }
 }
@@ -6486,35 +6493,35 @@ New CSS
 17. Blog
 ******************************************************* 
 *************************************************************** */
-.karx-blog-img {
+.ericson-blog-img {
   position: relative;
   border-radius: 10px 10px 0 0;
 }
-.karx-blog-img img {
+.ericson-blog-img img {
   border-radius: 10px 10px 0 0;
   transition: 0.5s;
 }
-.karx-blog-img:hover img {
+.ericson-blog-img:hover img {
   filter: grayscale(90%);
   transform: scale(1.1);
 }
 
-.karx-blog-img a {
+.ericson-blog-img a {
   display: block;
   overflow: hidden;
   border-radius: 10px 10px 0 0;
 }
 
-.karx-blog-box {
+.ericson-blog-box {
   background: #f1f3f2;
   border-radius: 15px 15px 15px 0px;
 }
 
-.karx-blog-box:hover .karx-blog-img-date {
-  background: #ff630e;
+.ericson-blog-box:hover .ericson-blog-img-date {
+  background: #C71116;
 }
 
-.karx-blog-img-text {
+.ericson-blog-img-text {
   background: #f1f3f2;
   border-radius: 0px 15px 0px 0px;
   position: absolute;
@@ -6523,33 +6530,33 @@ New CSS
   margin-right: 40px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-blog-img-text {
+  .ericson-blog-img-text {
     padding: 0 30px;
     margin-right: 30px;
   }
 }
-.karx-blog-img-text .d-inline-block a {
+.ericson-blog-img-text .d-inline-block a {
   font-size: 15px;
 }
-.karx-blog-img-text .d-inline-block a i {
-  color: #ff630e;
+.ericson-blog-img-text .d-inline-block a i {
+  color: #C71116;
   display: inline-block;
   font-size: 15px;
   margin-right: 10px;
 }
-.karx-blog-img-text .d-inline-block a:hover {
-  color: #ff630e;
+.ericson-blog-img-text .d-inline-block a:hover {
+  color: #C71116;
 }
-.karx-blog-img-text .d-inline-block:not(:last-child) {
+.ericson-blog-img-text .d-inline-block:not(:last-child) {
   margin-right: 25px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-blog-img-text .d-inline-block:not(:last-child) {
+  .ericson-blog-img-text .d-inline-block:not(:last-child) {
     margin-right: 15px;
   }
 }
 
-.karx-blog-img-date {
+.ericson-blog-img-date {
   background: #1a213e;
   text-align: center;
   position: relative;
@@ -6559,20 +6566,20 @@ New CSS
   padding: 5px 0;
   border-radius: 10px 10px 10px 0;
 }
-.karx-blog-img-date h5 {
+.ericson-blog-img-date h5 {
   font-size: 30px;
   color: #ffffff;
   font-weight: 600;
   margin: 0;
 }
-.karx-blog-img-date span {
+.ericson-blog-img-date span {
   display: inline-block;
   font-size: 14px;
   color: #ffffff;
   text-transform: uppercase;
 }
 
-.karx-blog-title-box .karx-blog-title {
+.ericson-blog-title-box .ericson-blog-title {
   font-size: 28px;
   line-height: 1.3;
   font-weight: 700;
@@ -6581,118 +6588,118 @@ New CSS
   margin-bottom: 15px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-blog-title-box .karx-blog-title {
+  .ericson-blog-title-box .ericson-blog-title {
     font-size: 24px;
   }
 }
 @media (max-width: 767px) {
-  .karx-blog-title-box .karx-blog-title {
+  .ericson-blog-title-box .ericson-blog-title {
     font-size: 22px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-blog-title-box .karx-blog-title {
+  .ericson-blog-title-box .ericson-blog-title {
     font-size: 26px;
   }
 }
-.karx-blog-title-box .karx-blog-title:hover {
-  color: #ff630e;
+.ericson-blog-title-box .ericson-blog-title:hover {
+  color: #C71116;
 }
 
-.karx-blog-title-box {
+.ericson-blog-title-box {
   padding: 30px 40px;
   padding-bottom: 34px;
 }
-.karx-blog-title-box p {
+.ericson-blog-title-box p {
   margin-bottom: 0;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-blog-box-1 .karx-blog-comment, .karx-blog-box-1 .karx-blog-img-tag {
+  .ericson-blog-box-1 .ericson-blog-comment, .ericson-blog-box-1 .ericson-blog-img-tag {
     padding-top: 10px;
   }
 }
-.karx-blog-title-box-2 {
+.ericson-blog-title-box-2 {
   padding: 0 40px;
   padding-bottom: 35px;
 }
 @media (max-width: 767px) {
-  .karx-blog-title-box-2 {
+  .ericson-blog-title-box-2 {
     padding: 0 30px;
     padding-bottom: 35px;
   }
 }
-.karx-blog-title-box-2 .karx-blog-title {
+.ericson-blog-title-box-2 .ericson-blog-title {
   font-size: 24px;
   line-height: 1.3;
 }
-.karx-blog-title-box-2 .karx-blog-title:hover {
-  color: #ff630e;
+.ericson-blog-title-box-2 .ericson-blog-title:hover {
+  color: #C71116;
 }
-.karx-blog-title-box-2 p {
+.ericson-blog-title-box-2 p {
   margin-bottom: 0;
 }
 
-.karx-blog-img-text-2 {
+.ericson-blog-img-text-2 {
   position: absolute;
   bottom: -40px;
   right: 40px;
 }
 @media (max-width: 767px) {
-  .karx-blog-img-text-2 {
+  .ericson-blog-img-text-2 {
     right: 30px;
   }
 }
-.karx-blog-img-text-2 .karx-blog-img-date {
+.ericson-blog-img-text-2 .ericson-blog-img-date {
   border-radius: 5px;
 }
 
-.karx-blog-title-tag .d-inline-block a {
+.ericson-blog-title-tag .d-inline-block a {
   font-size: 15px;
   display: inline-block;
   margin-right: 20px;
   margin-bottom: 10px;
 }
-.karx-blog-title-tag .d-inline-block a i {
+.ericson-blog-title-tag .d-inline-block a i {
   margin-right: 10px;
-  color: #ff630e;
+  color: #C71116;
 }
-.karx-blog-title-tag .d-inline-block a:hover {
-  color: #ff630e;
+.ericson-blog-title-tag .d-inline-block a:hover {
+  color: #C71116;
 }
-.karx-blog-title-tag .d-inline-block:last-child a {
+.ericson-blog-title-tag .d-inline-block:last-child a {
   margin-right: 0;
 }
 
-.karx-blog-3-button {
+.ericson-blog-3-button {
   height: 60px;
   line-height: 60px;
   position: relative;
   z-index: 1;
   padding: 0 30px;
 }
-.karx-blog-3-button i {
+.ericson-blog-3-button i {
   display: inline-block;
   margin-left: 5px;
   transform: translateY(1px);
 }
-.karx-blog-3-button:before {
+.ericson-blog-3-button:before {
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 0;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
   transition: 0.4s;
   z-index: -1;
 }
 
-.karx-blog-3-content-img {
+.ericson-blog-3-content-img {
   overflow: hidden;
 }
 
-.karx-blog-3-meta .karx-blog-3-meta-single {
+.ericson-blog-3-meta .ericson-blog-3-meta-single {
   display: inline-block;
   height: 40px;
   line-height: 40px;
@@ -6703,71 +6710,71 @@ New CSS
   font-size: 14px;
 }
 @media (max-width: 767px) {
-  .karx-blog-3-meta .karx-blog-3-meta-single {
+  .ericson-blog-3-meta .ericson-blog-3-meta-single {
     padding: 0 15px;
   }
 }
-.karx-blog-3-meta .karx-blog-3-meta-single:is(.karx-blog-3-cat-meta) {
-  background-color: #ff630e;
+.ericson-blog-3-meta .ericson-blog-3-meta-single:is(.ericson-blog-3-cat-meta) {
+  background-color: #C71116;
   color: #fff;
 }
-.karx-blog-3-meta .karx-blog-3-meta-single:is(.karx-blog-3-cat-meta):before {
+.ericson-blog-3-meta .ericson-blog-3-meta-single:is(.ericson-blog-3-cat-meta):before {
   content: "";
   display: block;
   width: 0;
   height: 0;
   border-style: solid;
   border-width: 0 12px 9px 0;
-  border-color: transparent #ff630e;
+  border-color: transparent #C71116;
   position: absolute;
   top: 100%;
 }
 
-.karx-blog-3-meta {
+.ericson-blog-3-meta {
   position: absolute;
   top: 0;
   margin-top: -40px;
 }
 
-.karx-blog-3-content {
+.ericson-blog-3-content {
   position: relative;
   z-index: 1;
   padding: 30px;
 }
 
-.karx-blog-3-content-title {
+.ericson-blog-3-content-title {
   font-size: 24px;
   line-height: 1.3;
 }
-.karx-blog-3-content-title:hover a {
-  color: #ff630e;
+.ericson-blog-3-content-title:hover a {
+  color: #C71116;
 }
 
-.karx-blog-3-author a {
+.ericson-blog-3-author a {
   display: flex;
   align-items: center;
 }
-.karx-blog-3-author a img {
+.ericson-blog-3-author a img {
   max-width: 40px;
   margin-right: 10px;
   border: 2px solid #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   border-radius: 50%;
 }
-.karx-blog-3-author a:hover {
-  color: #ff630e;
+.ericson-blog-3-author a:hover {
+  color: #C71116;
 }
 
-.karx-blog-3-item {
+.ericson-blog-3-item {
   box-shadow: 0 13px 29px rgba(0, 0, 0, 0.1);
 }
-.karx-blog-3-item:hover .karx-blog-3-content-img img {
+.ericson-blog-3-item:hover .ericson-blog-3-content-img img {
   transform: scale(1.05);
 }
-.karx-blog-3-item:hover .karx-blog-3-button {
+.ericson-blog-3-item:hover .ericson-blog-3-button {
   color: #fff;
 }
-.karx-blog-3-item:hover .karx-blog-3-button:before {
+.ericson-blog-3-item:hover .ericson-blog-3-button:before {
   height: 100%;
 }
 
@@ -6850,7 +6857,7 @@ New CSS
   top: 50%;
   width: 7px;
   height: 7px;
-  background-color: #ff630e;
+  background-color: #C71116;
   content: "";
   border-radius: 50%;
   transform: translateY(-50%);
@@ -6861,7 +6868,7 @@ New CSS
   }
 }
 .meta-item i {
-  color: #ff630e;
+  color: #C71116;
   margin-right: 8px;
   font-size: 16px;
   transform: translateY(-2px);
@@ -6923,7 +6930,7 @@ New CSS
   height: 65px;
   line-height: 65px;
   padding: 0 45px;
-  background-color: #ff630e;
+  background-color: #C71116;
   display: inline-block;
   border-radius: 5px;
   color: #fff;
@@ -7039,7 +7046,7 @@ New CSS
 }
 .blog-single-quote i {
   font-size: 80px;
-  color: #ff630e;
+  color: #C71116;
   margin-right: 30px;
 }
 @media (max-width: 767px) {
@@ -7069,7 +7076,7 @@ New CSS
   top: 50%;
   width: 45%;
   height: 2px;
-  background-color: #ff630e;
+  background-color: #C71116;
   content: "";
   transform: translateY(-50%);
 }
@@ -7174,18 +7181,18 @@ New CSS
   justify-content: center;
 }
 
-.karx-blog-details-text-list ul li {
+.ericson-blog-details-text-list ul li {
   list-style: none;
   display: flex;
   font-size: 16px;
 }
-.karx-blog-details-text-list ul li i {
+.ericson-blog-details-text-list ul li i {
   font-size: 10px;
   margin-right: 10px;
   color: #bfc2c3;
   margin-top: 7px;
 }
-.karx-blog-details-text-list ul li:not(:last-child) {
+.ericson-blog-details-text-list ul li:not(:last-child) {
   margin-bottom: 10px;
 }
 
@@ -7218,7 +7225,7 @@ New CSS
   }
 }
 .blog-details-author-name:hover a {
-  color: #ff630e;
+  color: #C71116;
 }
 
 .service-details-title {
@@ -7230,7 +7237,7 @@ New CSS
   }
 }
 
-.karx-sidebar-title {
+.ericson-sidebar-title {
   font-size: 28px;
 }
 
@@ -7325,7 +7332,7 @@ New CSS
   font-size: 20px;
 }
 .comment-title:hover a {
-  color: #ff630e;
+  color: #C71116;
 }
 
 @media (max-width: 767px) {
@@ -7348,14 +7355,14 @@ New CSS
   font-weight: 700;
   font-size: 15px;
   text-decoration: none;
-  color: #ff630e;
+  color: #C71116;
 }
 .comment-btn:hover {
   color: var(--secendary-color);
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-service-details-wrapper.mr-20 {
+  .ericson-service-details-wrapper.mr-20 {
     margin-right: 0;
   }
 }
@@ -7393,7 +7400,7 @@ New CSS
   color: var(--primary-color);
 }
 
-.karx-sidebar-tag a {
+.ericson-sidebar-tag a {
   height: 45px;
   line-height: 45px;
   margin-right: 10px;
@@ -7406,12 +7413,12 @@ New CSS
   font-weight: 700;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-sidebar-tag a {
+  .ericson-sidebar-tag a {
     margin-right: 5px;
     margin-bottom: 10px;
   }
 }
-.karx-sidebar-tag a:hover {
+.ericson-sidebar-tag a:hover {
   background-color: var(--primary-color);
   color: var(--white-color);
 }
@@ -7445,7 +7452,7 @@ New CSS
 .section-subtitle {
   font-size: 20px;
   font-weight: 700;
-  color: #FF630E;
+  color: #C71116;
   display: inline-block;
   margin-bottom: 10px;
   text-transform: capitalize;
@@ -7619,7 +7626,7 @@ New CSS
 }
 
 .contact-list.mobile_contact a:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
 .footer_social.offset_social a {
@@ -7633,7 +7640,7 @@ New CSS
   color: #fff;
 }
 .footer_social.offset_social a:hover {
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
 }
 
@@ -7656,17 +7663,17 @@ New CSS
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-popular-service-area.pt-115 {
+  .ericson-popular-service-area.pt-115 {
     padding-top: 120px;
   }
 }
 
-.karx-company-benefits-title {
+.ericson-company-benefits-title {
   font-size: 30px;
   font-weight: 700;
 }
 
-.karx-popular-service-left {
+.ericson-popular-service-left {
   background: #fff;
 }
 
@@ -7700,7 +7707,7 @@ New CSS
   font-weight: 700;
 }
 .popular-slider-card .popular-slider-card-title:hover a {
-  color: #ff630e;
+  color: #C71116;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -7736,7 +7743,7 @@ New CSS
 .popular-service-subtitle {
   font-size: 20px;
   font-weight: 700;
-  color: #ff630e;
+  color: #C71116;
   text-transform: capitalize;
   display: inline-block;
   margin-bottom: 10px;
@@ -7780,7 +7787,7 @@ New CSS
   margin-bottom: 20px;
 }
 
-.karx-service-details-img {
+.ericson-service-details-img {
   position: relative;
   border-radius: 10px 10px 0 0;
   overflow: hidden;
@@ -7850,22 +7857,22 @@ New CSS
   }
 }
 
-.karx-project-details-list ul li {
+.ericson-project-details-list ul li {
   display: flex;
   list-style: none;
   align-items: center;
 }
 @media (max-width: 767px) {
-  .karx-project-details-list ul li {
+  .ericson-project-details-list ul li {
     align-items: flex-start;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-project-details-list ul li {
+  .ericson-project-details-list ul li {
     align-items: center;
   }
 }
-.karx-project-details-list ul li i {
+.ericson-project-details-list ul li i {
   font-size: 18px;
   height: 44px;
   background-color: #f2f2f2;
@@ -7877,7 +7884,7 @@ New CSS
   flex: 0 0 44px;
   max-width: 44px;
 }
-.karx-project-details-list ul li:not(:last-child) {
+.ericson-project-details-list ul li:not(:last-child) {
   margin-bottom: 15px;
 }
 
@@ -7908,7 +7915,7 @@ New CSS
   bottom: 0;
 }
 
-.karx-play-btn {
+.ericson-play-btn {
   display: flex;
   color: var(--white-color);
   background: var(--primary-color);
@@ -7923,18 +7930,18 @@ New CSS
   animation: pulse 2s infinite;
 }
 @media (max-width: 767px) {
-  .karx-play-btn {
+  .ericson-play-btn {
     width: 70px;
     height: 70px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-play-btn {
+  .ericson-play-btn {
     width: 80px;
     height: 80px;
   }
 }
-.karx-play-btn i {
+.ericson-play-btn i {
   color: var(--white-color);
   font-size: 18px;
   -webkit-transition: all 0.3s linear 0s;
@@ -7943,10 +7950,10 @@ New CSS
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
 }
-.karx-play-btn:hover {
+.ericson-play-btn:hover {
   background: var(--secendary-color);
 }
-.karx-play-btn:hover i {
+.ericson-play-btn:hover i {
   color: var(--white-color);
 }
 
@@ -8037,39 +8044,39 @@ New CSS
   }
 }
 
-.karx-blog-sidebar {
+.ericson-blog-sidebar {
   padding: 40px 30px;
   background-color: #f2f2f2;
   border-radius: 10px;
 }
 
-.karx-sidebar-recent-post-img {
+.ericson-sidebar-recent-post-img {
   overflow: hidden;
 }
-.karx-sidebar-recent-post-img img:hover {
+.ericson-sidebar-recent-post-img img:hover {
   transform: scale(1.1);
   filter: grayscale(90%);
 }
 
-.karx-sidebar-title {
+.ericson-sidebar-title {
   margin-bottom: 25px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-sidebar-title {
+  .ericson-sidebar-title {
     font-size: 24px;
   }
 }
 @media (max-width: 767px) {
-  .karx-sidebar-title {
+  .ericson-sidebar-title {
     font-size: 24px;
   }
 }
 
-.karx-sidebar-search {
+.ericson-sidebar-search {
   position: relative;
 }
 
-.karx-sidebar-search input {
+.ericson-sidebar-search input {
   width: 100%;
   height: 65px;
   line-height: 65px;
@@ -8078,7 +8085,7 @@ New CSS
   padding-right: 60px;
   border-radius: 5px;
 }
-.karx-sidebar-search button[type=submit] {
+.ericson-sidebar-search button[type=submit] {
   position: absolute;
   right: 0;
   height: 100%;
@@ -8092,14 +8099,14 @@ New CSS
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
 }
-.karx-sidebar-search button[type=submit]:hover {
+.ericson-sidebar-search button[type=submit]:hover {
   color: var(--primary-color);
 }
 
-.karx-sidebar-category ul li {
+.ericson-sidebar-category ul li {
   list-style: none;
 }
-.karx-sidebar-category ul li a {
+.ericson-sidebar-category ul li a {
   display: block;
   font-size: 16px;
   font-weight: 700;
@@ -8109,16 +8116,16 @@ New CSS
   color: var(--secendary-color);
   border-radius: 5px;
 }
-.karx-sidebar-category ul li a i {
+.ericson-sidebar-category ul li a i {
   display: inline-block;
   margin-top: 5px;
   float: right;
 }
-.karx-sidebar-category ul li a:hover {
+.ericson-sidebar-category ul li a:hover {
   background-color: var(--primary-color);
   color: var(--white-color);
 }
-.karx-sidebar-category ul li:not(:last-child) {
+.ericson-sidebar-category ul li:not(:last-child) {
   margin-bottom: 20px;
 }
 
@@ -8197,7 +8204,7 @@ New CSS
   background-color: var(--secendary-color);
 }
 
-.karx-sidebar-download a {
+.ericson-sidebar-download a {
   font-size: 16px;
   font-weight: 700;
   font-family: "Poppins";
@@ -8209,18 +8216,18 @@ New CSS
   color: #1a1a1a;
   border-radius: 5px;
 }
-.karx-sidebar-download a span {
+.ericson-sidebar-download a span {
   float: right;
 }
-.karx-sidebar-download a:not(:last-child) {
+.ericson-sidebar-download a:not(:last-child) {
   margin-bottom: 20px;
 }
-.karx-sidebar-download a:hover {
+.ericson-sidebar-download a:hover {
   background-color: var(--primary-color);
   color: var(--white-color);
 }
 
-.karx-blog-sidebar-ad {
+.ericson-blog-sidebar-ad {
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -8230,40 +8237,40 @@ New CSS
   padding-bottom: 60px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-blog-sidebar-ad {
+  .ericson-blog-sidebar-ad {
     padding-top: 55px;
   }
 }
-.karx-blog-sidebar-ad .karx-add-title {
+.ericson-blog-sidebar-ad .ericson-add-title {
   font-size: 40px;
   color: var(--white-color);
   margin-bottom: 25px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-blog-sidebar-ad .karx-add-title {
+  .ericson-blog-sidebar-ad .ericson-add-title {
     font-size: 36px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-blog-sidebar-ad .karx-add-title {
+  .ericson-blog-sidebar-ad .ericson-add-title {
     font-size: 30px;
   }
 }
 @media (max-width: 767px) {
-  .karx-blog-sidebar-ad .karx-add-title {
+  .ericson-blog-sidebar-ad .ericson-add-title {
     font-size: 30px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-blog-sidebar-ad .karx-add-title {
+  .ericson-blog-sidebar-ad .ericson-add-title {
     font-size: 40px;
   }
 }
-.karx-blog-sidebar-ad p {
+.ericson-blog-sidebar-ad p {
   color: var(--white-color);
   margin-bottom: 25px;
 }
-.karx-blog-sidebar-ad::before {
+.ericson-blog-sidebar-ad::before {
   position: absolute;
   left: 0;
   top: 0;
@@ -8276,15 +8283,15 @@ New CSS
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-market-content-title-wrapper .about-title br {
+  .ericson-market-content-title-wrapper .about-title br {
     display: none;
   }
 }
 
-.karx-add-btn {
+.ericson-add-btn {
   height: 65px;
   line-height: 65px;
-  background-color: #ff630e;
+  background-color: #C71116;
   display: inline-block;
   padding: 0 40px;
   border-radius: 5px;
@@ -8295,7 +8302,7 @@ New CSS
   border: 0;
   transition: 0.3s;
 }
-.karx-add-btn:hover {
+.ericson-add-btn:hover {
   background-color: var(--secendary-color);
   color: var(--white-color);
 }
@@ -8306,21 +8313,21 @@ New CSS
 25. Our Gallery
 ******************************************************* 
 *************************************************************** */
-.karx-gallery-item-single {
+.ericson-gallery-item-single {
   position: relative;
   z-index: 1;
 }
-.karx-gallery-item-single > img {
+.ericson-gallery-item-single > img {
   width: 100%;
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-gallery-menu.filter-nav {
+  .ericson-gallery-menu.filter-nav {
     margin-bottom: 30px;
   }
 }
 
-.karx-gallery-item-content {
+.ericson-gallery-item-content {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -8334,34 +8341,34 @@ New CSS
   justify-content: space-between;
 }
 
-.karx-gallery-item-single {
+.ericson-gallery-item-single {
   overflow: hidden;
 }
 
-.karx-gallery-item img {
+.ericson-gallery-item img {
   transform: scale(1);
   transition: all 0.9s;
   width: 100%;
 }
-.karx-gallery-item:hover img {
+.ericson-gallery-item:hover img {
   transform: scale(1.1);
 }
 
-.karx-gallery-item-text-title {
+.ericson-gallery-item-text-title {
   font-size: 24px;
   margin-bottom: 5px;
 }
-.karx-gallery-item-text-title a:hover {
-  color: #ff630e;
+.ericson-gallery-item-text-title a:hover {
+  color: #C71116;
 }
 
-.karx-gallery-item-img {
+.ericson-gallery-item-img {
   width: 70px;
   margin-right: 20px;
   margin-left: 30px;
 }
 
-.karx-gallery-single-sm .karx-gallery-item-content {
+.ericson-gallery-single-sm .ericson-gallery-item-content {
   width: calc(100% - 60px);
   height: calc(100% - 60px);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
@@ -8374,17 +8381,17 @@ New CSS
   margin-left: 30px;
   margin-bottom: 30px;
 }
-.karx-gallery-single-sm:hover .karx-gallery-item-content {
+.ericson-gallery-single-sm:hover .ericson-gallery-item-content {
   opacity: 0.85;
   visibility: visible;
   transform: scale(1);
 }
 
-.karx-gallery-menu {
+.ericson-gallery-menu {
   border-bottom: 2px solid #ddd;
   display: inline-block;
 }
-.karx-gallery-menu button {
+.ericson-gallery-menu button {
   border: 0;
   background-color: transparent;
   color: #000;
@@ -8396,24 +8403,24 @@ New CSS
   padding: 10px 15px;
   margin: 0;
 }
-.karx-gallery-menu button::after {
+.ericson-gallery-menu button::after {
   position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
   height: 2px;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
   opacity: 0;
   visibility: hidden;
   transition: 0.3s;
 }
-.karx-gallery-menu button:is(.active)::after {
+.ericson-gallery-menu button:is(.active)::after {
   opacity: 1;
   visibility: visible;
 }
 
-.karx-gallery-item-single.karx-gallery-single-sm {
+.ericson-gallery-item-single.ericson-gallery-single-sm {
   overflow: hidden;
 }
 
@@ -8439,7 +8446,7 @@ New CSS
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-portfolio-details-wrapper.mr-20 {
+  .ericson-portfolio-details-wrapper.mr-20 {
     margin-right: 0;
   }
 }
@@ -8468,12 +8475,12 @@ New CSS
   }
 }
 
-.karx-portfolio-details-img {
+.ericson-portfolio-details-img {
   border-radius: 10px 10px 0 0;
   overflow: hidden;
 }
 
-.karx-portfolio-sidebar {
+.ericson-portfolio-sidebar {
   padding: 40px 30px;
   background-color: #f2f2f2;
   border-radius: 10px;
@@ -8580,65 +8587,65 @@ New CSS
   }
 }
 
-.karx-appointment-image img {
+.ericson-appointment-image img {
   width: 100%;
   min-height: 700px;
 }
 @media (max-width: 767px) {
-  .karx-appointment-image img {
+  .ericson-appointment-image img {
     min-height: 450px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-appointment-image img {
+  .ericson-appointment-image img {
     min-height: 550px;
   }
 }
 
-.karx-appointment-form-wrapper {
+.ericson-appointment-form-wrapper {
   background-color: #f2f2f2;
   padding: 60px;
   padding-bottom: 70px;
 }
 @media (max-width: 767px) {
-  .karx-appointment-form-wrapper {
+  .ericson-appointment-form-wrapper {
     padding: 40px 30px;
     padding-bottom: 50px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-appointment-form-wrapper {
+  .ericson-appointment-form-wrapper {
     padding: 50px;
     padding-bottom: 60px;
   }
 }
 
-.karx-appointment-title {
+.ericson-appointment-title {
   font-size: 50px;
   font-weight: 700;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-appointment-title {
+  .ericson-appointment-title {
     font-size: 36px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-appointment-title {
+  .ericson-appointment-title {
     font-size: 46px;
   }
 }
 @media (max-width: 767px) {
-  .karx-appointment-title {
+  .ericson-appointment-title {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-appointment-title {
+  .ericson-appointment-title {
     font-size: 36px;
   }
 }
 
-.karx-appointment-form input {
+.ericson-appointment-form input {
   height: 60px;
   width: 100%;
   border: 0;
@@ -8646,23 +8653,23 @@ New CSS
   padding: 0 25px;
   margin-bottom: 20px;
 }
-.karx-appointment-form textarea {
+.ericson-appointment-form textarea {
   width: 100%;
   height: 160px;
   border: 0;
   padding: 25px;
   margin-bottom: 20px;
 }
-.karx-appointment-form button[type=submit] {
+.ericson-appointment-form button[type=submit] {
   height: 60px;
   border: 0;
   padding: 0 35px;
-  background-color: #FF630E;
+  background-color: #C71116;
   color: #fff;
   font-size: 16px;
 }
 
-.nice-select.karx-has-select {
+.nice-select.ericson-has-select {
   background-color: #fff;
   border-radius: 0;
   width: 100%;
@@ -8674,89 +8681,89 @@ New CSS
   font-weight: 400;
   border: 0;
 }
-.nice-select.karx-has-select::after {
+.nice-select.ericson-has-select::after {
   border-bottom: 1px solid #707480;
   border-right: 1px solid #707480;
   width: 8px;
   height: 8px;
   right: 25px;
 }
-.nice-select.karx-has-select ul {
+.nice-select.ericson-has-select ul {
   width: 100%;
   box-shadow: 0 0 0 1px rgba(68, 68, 68, 0.06);
   border: 0;
 }
-.nice-select.karx-has-select ul .option {
+.nice-select.ericson-has-select ul .option {
   height: 60px;
   line-height: 60px;
   padding-left: 25px;
   padding-right: 25px;
 }
 
-.karx-contact-title {
+.ericson-contact-title {
   font-size: 46px;
 }
 @media (max-width: 767px) {
-  .karx-contact-title {
+  .ericson-contact-title {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-contact-title {
+  .ericson-contact-title {
     font-size: 36px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-contact-title {
+  .ericson-contact-title {
     font-size: 42px;
   }
 }
 
-.karx-map-area {
+.ericson-map-area {
   height: 650px;
 }
 @media (max-width: 767px) {
-  .karx-map-area {
+  .ericson-map-area {
     height: 450px;
   }
 }
-.karx-map-area iframe {
+.ericson-map-area iframe {
   width: 100%;
   height: 100%;
 }
 
-.karx-contact-info-item {
+.ericson-contact-info-item {
   display: flex;
 }
-.karx-contact-info-item:hover i {
+.ericson-contact-info-item:hover i {
   animation: icon-bounce 0.8s 1;
 }
-.karx-contact-info-item > i {
+.ericson-contact-info-item > i {
   font-size: 28px;
   line-height: 1;
   margin-right: 20px;
-  color: #ff630e;
+  color: #C71116;
 }
-.karx-contact-info-item:not(:last-child) {
+.ericson-contact-info-item:not(:last-child) {
   margin-bottom: 30px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-contact-info-item {
+  .ericson-contact-info-item {
     flex: 0 0 50%;
     max-width: 50%;
   }
 }
 
-.karx-contact-info-text-title {
+.ericson-contact-info-text-title {
   font-size: 24px;
   margin-top: -3px;
 }
 
-.karx-contact-info-item-text a:hover {
-  color: #ff630e;
+.ericson-contact-info-item-text a:hover {
+  color: #C71116;
 }
 
-.karx-contact-form input {
+.ericson-contact-form input {
   width: 100%;
   height: 65px;
   border: 1px solid #dedede;
@@ -8765,7 +8772,7 @@ New CSS
   padding: 0 25px;
   border-radius: 5px;
 }
-.karx-contact-form textarea {
+.ericson-contact-form textarea {
   width: 100%;
   height: 150px;
   padding: 25px;
@@ -8773,16 +8780,16 @@ New CSS
   border: 1px solid #dedede;
   border-radius: 5px;
 }
-.karx-contact-form .nice-select.karx-has-select {
+.ericson-contact-form .nice-select.ericson-has-select {
   border: 1px solid #dedede;
   border-radius: 5px;
 }
-.karx-contact-form .nice-select.karx-has-select::after {
+.ericson-contact-form .nice-select.ericson-has-select::after {
   border-color: #707480;
 }
-.karx-contact-form button[type=submit] {
+.ericson-contact-form button[type=submit] {
   border: 0;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
   font-size: 16px;
   height: 60px;
@@ -8792,13 +8799,13 @@ New CSS
   transition: 0.3s;
   border-radius: 5px;
 }
-.karx-contact-form button[type=submit]:hover {
+.ericson-contact-form button[type=submit]:hover {
   background-color: var(--secendary-color);
   color: var(--white-color);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-contact-info-wrapper.pr-60 {
+  .ericson-contact-info-wrapper.pr-60 {
     display: flex;
     flex-wrap: wrap;
     padding-right: 0;
@@ -8811,61 +8818,61 @@ New CSS
 28. Shop Details
 ******************************************************* 
 *************************************************************** */
-.karx-shop-details-content-title {
+.ericson-shop-details-content-title {
   font-size: 36px;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-content-title {
+  .ericson-shop-details-content-title {
     font-size: 28px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-content-title {
+  .ericson-shop-details-content-title {
     font-size: 32px;
   }
 }
 
-.karx-shop-details-contetn-price {
+.ericson-shop-details-contetn-price {
   font-size: 24px;
   font-weight: 500;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-contetn-price {
+  .ericson-shop-details-contetn-price {
     font-size: 22px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-contetn-price {
+  .ericson-shop-details-contetn-price {
     font-size: 24px;
   }
 }
 
-.karx-shop-details-content-rating a i {
-  color: #ff630e;
+.ericson-shop-details-content-rating a i {
+  color: #C71116;
 }
-.karx-shop-details-content-rating > span {
+.ericson-shop-details-content-rating > span {
   display: inline-block;
   margin-left: 10px;
 }
 
-.karx-shop-details-content-cart-action-wrap {
+.ericson-shop-details-content-cart-action-wrap {
   display: flex;
   gap: 30px;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-content-cart-action-wrap {
+  .ericson-shop-details-content-cart-action-wrap {
     flex-direction: column;
     gap: 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-content-cart-action-wrap {
+  .ericson-shop-details-content-cart-action-wrap {
     flex-direction: row;
     gap: 30px;
   }
 }
 
-.karx-shop-details-content-quantity-box {
+.ericson-shop-details-content-quantity-box {
   width: 120px;
   height: 60px;
   background: transparent;
@@ -8873,7 +8880,7 @@ New CSS
   border: 1px solid #dee2e6;
 }
 
-.karx-shop-details-content-quantity-box .plus {
+.ericson-shop-details-content-quantity-box .plus {
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -8884,7 +8891,7 @@ New CSS
   color: #dee2e6;
 }
 
-.karx-shop-details-content-quantity-box input {
+.ericson-shop-details-content-quantity-box input {
   width: 100%;
   border: 0;
   background: transparent;
@@ -8895,7 +8902,7 @@ New CSS
   font-weight: 700;
 }
 
-.karx-shop-details-content-quantity-box .minus {
+.ericson-shop-details-content-quantity-box .minus {
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -8906,7 +8913,7 @@ New CSS
   color: #dee2e6;
 }
 
-.karx-shop-details-content-add-cart {
+.ericson-shop-details-content-add-cart {
   width: 370px;
   height: 60px;
   background: #1a213e;
@@ -8921,41 +8928,41 @@ New CSS
   transition: 0.3s;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-content-add-cart {
+  .ericson-shop-details-content-add-cart {
     width: 100%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-content-add-cart {
+  .ericson-shop-details-content-add-cart {
     width: 370px;
   }
 }
-.karx-shop-details-content-add-cart:hover {
-  background-color: #ff630e;
+.ericson-shop-details-content-add-cart:hover {
+  background-color: #C71116;
   color: #fff;
 }
 
-.karx-shop-details-content-widget-action {
+.ericson-shop-details-content-widget-action {
   display: flex;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-content-widget-action {
+  .ericson-shop-details-content-widget-action {
     flex-direction: column;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-content-widget-action {
+  .ericson-shop-details-content-widget-action {
     flex-direction: row;
   }
 }
 
-.karx-shop-details-content-widget-action-item:not(:last-child) {
+.ericson-shop-details-content-widget-action-item:not(:last-child) {
   margin-right: 20px;
   padding-right: 20px;
   border-right: 1px solid #dee2e6;
 }
 @media (max-width: 767px) {
-  .karx-shop-details-content-widget-action-item:not(:last-child) {
+  .ericson-shop-details-content-widget-action-item:not(:last-child) {
     margin-right: 0;
     padding-right: 0;
     border-right: 0;
@@ -8963,36 +8970,36 @@ New CSS
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .karx-shop-details-content-widget-action-item:not(:last-child) {
+  .ericson-shop-details-content-widget-action-item:not(:last-child) {
     margin-right: 20px;
     padding-right: 20px;
     border-right: 1px solid #dee2e6;
     margin-bottom: 0;
   }
 }
-.karx-shop-details-content-widget-action-item a {
+.ericson-shop-details-content-widget-action-item a {
   font-size: 16px;
   font-weight: 500;
   color: #1a213e;
 }
-.karx-shop-details-content-widget-action-item a:hover {
-  color: #ff630e;
+.ericson-shop-details-content-widget-action-item a:hover {
+  color: #C71116;
 }
-.karx-shop-details-content-widget-action-item a i {
+.ericson-shop-details-content-widget-action-item a i {
   margin-right: 10px;
 }
 
-.karx-shop-details-content-list ul li {
+.ericson-shop-details-content-list ul li {
   margin-bottom: 10px;
 }
-.karx-shop-details-content-list ul li b {
+.ericson-shop-details-content-list ul li b {
   font-size: 18px;
   font-weight: 500;
   color: #1a213e;
   margin-right: 15px;
   display: inline-block;
 }
-.karx-shop-details-content-list ul li a {
+.ericson-shop-details-content-list ul li a {
   display: inline-block;
   background-color: #f2f2f2;
   padding: 5px 10px;
@@ -9000,16 +9007,16 @@ New CSS
   border-radius: 2px;
   color: #1a213e;
 }
-.karx-shop-details-content-list ul li a:hover {
-  background-color: #ff630e;
+.ericson-shop-details-content-list ul li a:hover {
+  background-color: #C71116;
   color: #fff;
 }
 
-.karx-single-shop-details-image.has-width img {
+.ericson-single-shop-details-image.has-width img {
   width: 100%;
 }
 
-.karx-shop-details-info-tab-controls button {
+.ericson-shop-details-info-tab-controls button {
   border: 0;
   background-color: #f2f2f2;
   height: 60px;
@@ -9023,33 +9030,33 @@ New CSS
   margin-bottom: 15px;
   transition: 0.3s;
 }
-.karx-shop-details-info-tab-controls button:is(.active) {
-  background-color: #ff630e;
+.ericson-shop-details-info-tab-controls button:is(.active) {
+  background-color: #C71116;
   color: #fff;
 }
 
-.karx-description-list ul li {
+.ericson-description-list ul li {
   list-style: none;
   display: flex;
 }
-.karx-description-list ul li i {
+.ericson-description-list ul li i {
   display: inline-block;
   margin-right: 10px;
   color: #1a213e;
   margin-top: 4px;
 }
-.karx-description-list ul li:not(:last-child) {
+.ericson-description-list ul li:not(:last-child) {
   margin-bottom: 5px;
 }
 
-.karx-shop-details-review-title {
+.ericson-shop-details-review-title {
   font-size: 24px;
 }
 
-.karx-shop-details-review-box-single {
+.ericson-shop-details-review-box-single {
   display: flex;
 }
-.karx-shop-details-review-box-single .thumb {
+.ericson-shop-details-review-box-single .thumb {
   margin-right: 30px;
   flex: 0 0 70px;
   border-radius: 50%;
@@ -9067,39 +9074,39 @@ New CSS
   border-bottom: 1px solid #dee2e6;
 }
 
-.karx-shop-details-review-title {
+.ericson-shop-details-review-title {
   font-size: 24px;
 }
 
-.karx-submit-form-default-single .condition-box {
+.ericson-submit-form-default-single .condition-box {
   display: flex;
   gap: 10px;
 }
-.karx-submit-form-default-single .condition-box .has-condition {
+.ericson-submit-form-default-single .condition-box .has-condition {
   width: 20px;
   height: 20px;
   margin-bottom: 0;
   margin-top: 2px;
 }
-.karx-submit-form-default-single .condition-box .has-condition label.condition {
+.ericson-submit-form-default-single .condition-box .has-condition label.condition {
   font-size: 16px;
   color: #1a213e;
 }
 
-.karx-shop-details-content-list.border-top ul {
+.ericson-shop-details-content-list.border-top ul {
   margin: 0;
   padding: 0;
 }
-.karx-shop-details-content-list.border-top ul li {
+.ericson-shop-details-content-list.border-top ul li {
   list-style: none;
 }
 
-.rating i, .karx-review-rating i {
-  color: #ff630e;
+.rating i, .ericson-review-rating i {
+  color: #C71116;
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-images-wrapper.mr-40 {
+  .ericson-images-wrapper.mr-40 {
     margin-right: 0;
   }
 }
@@ -9110,25 +9117,25 @@ New CSS
 29. Cart
 ******************************************************* 
 *************************************************************** */
-.karx-shopping-cart-table {
+.ericson-shopping-cart-table {
   overflow-x: auto;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-shopping-cart-table.table-full table {
+  .ericson-shopping-cart-table.table-full table {
     width: 100%;
   }
 }
-.karx-shopping-cart-table table {
+.ericson-shopping-cart-table table {
   border-radius: 5px;
   border: 1px solid #dedede;
   width: 100%;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-shopping-cart-table table {
+  .ericson-shopping-cart-table table {
     width: 774px;
   }
 }
-.karx-shopping-cart-table table thead th {
+.ericson-shopping-cart-table table thead th {
   font-weight: 500;
   font-size: 16px;
   padding: 25px 0;
@@ -9137,18 +9144,18 @@ New CSS
   padding-right: 15px;
   padding-left: 15px;
 }
-.karx-shopping-cart-table table thead th:first-child {
+.ericson-shopping-cart-table table thead th:first-child {
   padding-left: 25px;
 }
-.karx-shopping-cart-table table tbody td {
+.ericson-shopping-cart-table table tbody td {
   vertical-align: middle;
   padding: 30px 15px;
 }
-.karx-shopping-cart-table table tbody td .karx-product-cart-price {
+.ericson-shopping-cart-table table tbody td .ericson-product-cart-price {
   font-size: 16px;
   color: #707480;
 }
-.karx-shopping-cart-table tr:not(:last-child) tbody td {
+.ericson-shopping-cart-table tr:not(:last-child) tbody td {
   border-bottom: 1px solid #dedede;
 }
 
@@ -9156,33 +9163,33 @@ New CSS
   border-bottom-color: #dedede;
 }
 
-.karx-shopping-cart-product-box {
+.ericson-shopping-cart-product-box {
   align-items: center;
   display: flex;
 }
-.karx-shopping-cart-product-box > * {
+.ericson-shopping-cart-product-box > * {
   flex: 0 0 auto;
 }
-.karx-shopping-cart-product-box .image {
+.ericson-shopping-cart-product-box .image {
   width: 64px;
   margin-right: 22px;
 }
-.karx-shopping-cart-product-box .title-wrap {
+.ericson-shopping-cart-product-box .title-wrap {
   overflow: hidden;
 }
-.karx-shopping-cart-product-box .title-wrap .title {
+.ericson-shopping-cart-product-box .title-wrap .title {
   font-size: 16px;
   margin-bottom: 0;
   font-weight: 500;
 }
-.karx-shopping-cart-product-box .title-wrap .title a {
+.ericson-shopping-cart-product-box .title-wrap .title a {
   text-decoration: none;
 }
-.karx-shopping-cart-product-box .title-wrap .title a:hover {
-  color: #ff630e;
+.ericson-shopping-cart-product-box .title-wrap .title a:hover {
+  color: #C71116;
 }
 
-.karx-cart-times-btn {
+.ericson-cart-times-btn {
   border: 0;
   background: transparent;
   padding: 0;
@@ -9191,41 +9198,41 @@ New CSS
   display: inline-block;
   transition: 0.3s;
 }
-.karx-cart-times-btn:hover {
-  color: #ff630e;
+.ericson-cart-times-btn:hover {
+  color: #C71116;
 }
 
-.karx-cart-total-box-2 {
+.ericson-cart-total-box-2 {
   border: 1px solid #dedede;
   padding-bottom: 40px;
 }
-.karx-cart-total-box-2 ul li .label {
+.ericson-cart-total-box-2 ul li .label {
   font-weight: 500;
   font-size: 16px;
   display: inline-block;
   color: #1a213e;
 }
-.karx-cart-total-box-2 ul li .price {
+.ericson-cart-total-box-2 ul li .price {
   font-size: 16px;
   color: #1a213e;
   float: right;
 }
-.karx-cart-total-box-2 ul {
+.ericson-cart-total-box-2 ul {
   padding: 0 25px;
 }
-.karx-cart-total-box-2 ul li {
+.ericson-cart-total-box-2 ul li {
   list-style-type: none;
   border-bottom: 1px solid #dedede;
   padding: 20px 0;
 }
-.karx-cart-total-box-2 ul li.has-cart-checkout-list-form-style {
+.ericson-cart-total-box-2 ul li.has-cart-checkout-list-form-style {
   border: 0;
   padding: 0;
 }
-.karx-cart-total-box-2 ul .list li {
+.ericson-cart-total-box-2 ul .list li {
   padding: 0 10px;
 }
-.karx-cart-total-box-2 .nice-select {
+.ericson-cart-total-box-2 .nice-select {
   float: right;
   height: auto;
   border: 0;
@@ -9234,23 +9241,23 @@ New CSS
   line-height: 1;
   margin-top: 5px;
 }
-.karx-cart-total-box-2 .nice-select span.current {
+.ericson-cart-total-box-2 .nice-select span.current {
   font-size: 16px;
-  color: #ff630e;
+  color: #C71116;
 }
-.karx-cart-total-box-2 .nice-select::after {
+.ericson-cart-total-box-2 .nice-select::after {
   display: none;
 }
-.karx-cart-total-box-2 .nice-select::before {
+.ericson-cart-total-box-2 .nice-select::before {
   content: "\f107";
   font-family: "Font awesome 5 pro";
   right: 0;
   top: 3px;
   position: absolute;
-  color: #ff630e;
+  color: #C71116;
   font-weight: 500;
 }
-.karx-cart-total-box-2 .title {
+.ericson-cart-total-box-2 .title {
   margin-bottom: 0;
   font-weight: 500;
   font-size: 18px;
@@ -9277,28 +9284,28 @@ New CSS
   color: #fff;
 }
 .cart-checkout-form-btn-2:hover {
-  background: #ff630e;
+  background: #C71116;
   color: #fff;
 }
 .cart-checkout-form-btn:hover, .cart-checkout-form-btn-2:hover {
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .pl-20.karx-cart-widget-left-space {
+  .pl-20.ericson-cart-widget-left-space {
     padding-left: 0;
   }
 }
 
-.karx-single-product-popup-quantity-box {
+.ericson-single-product-popup-quantity-box {
   width: 130px;
   height: 40px;
   border-radius: 5px;
   background: #dedede;
   position: relative;
 }
-.karx-single-product-popup-quantity-box input {
+.ericson-single-product-popup-quantity-box input {
   width: 100%;
   border: 0;
   background: transparent;
@@ -9308,7 +9315,7 @@ New CSS
   color: #1a213e;
   font-weight: 700;
 }
-.karx-single-product-popup-quantity-box .plus {
+.ericson-single-product-popup-quantity-box .plus {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -9317,10 +9324,10 @@ New CSS
   background-color: transparent;
   transition: 0.3s;
 }
-.karx-single-product-popup-quantity-box .plus:hover {
-  color: #ff630e;
+.ericson-single-product-popup-quantity-box .plus:hover {
+  color: #C71116;
 }
-.karx-single-product-popup-quantity-box .minus {
+.ericson-single-product-popup-quantity-box .minus {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -9329,8 +9336,8 @@ New CSS
   background-color: transparent;
   transition: 0.3s;
 }
-.karx-single-product-popup-quantity-box .minus:hover {
-  color: #ff630e;
+.ericson-single-product-popup-quantity-box .minus:hover {
+  color: #C71116;
 }
 
 .cart-checkout-form-btn, .cart-checkout-form-btn-2 {
@@ -9349,7 +9356,7 @@ New CSS
   transition: 0.3s;
 }
 .cart-checkout-form-btn:hover, .cart-checkout-form-btn-2:hover {
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
 }
 
@@ -9366,25 +9373,25 @@ label {
   font-weight: 400;
 }
 
-.karx-return-customar-login-warning-link span {
+.ericson-return-customar-login-warning-link span {
   font-size: 16px;
   margin-right: 5px;
 }
-.karx-return-customar-login-warning-link a {
+.ericson-return-customar-login-warning-link a {
   font-weight: 500;
   text-decoration: none;
   color: #1a213e;
 }
-.karx-return-customar-login-warning-link a:hover {
-  color: #ff630e;
+.ericson-return-customar-login-warning-link a:hover {
+  color: #C71116;
 }
 
-.karx-billing-details-title {
+.ericson-billing-details-title {
   font-size: 24px;
   font-weight: 500;
 }
 
-.karx-submit-form-default-single .select2 {
+.ericson-submit-form-default-single .select2 {
   width: 100% !important;
   height: 60px;
   border-radius: 5px;
@@ -9392,68 +9399,68 @@ label {
   color: #707480;
   border: 1px solid #dedede;
 }
-.karx-submit-form-default-single .select2 .select2-selection {
+.ericson-submit-form-default-single .select2 .select2-selection {
   height: 100%;
   border: 0;
 }
-.karx-submit-form-default-single span#select2-country-container {
+.ericson-submit-form-default-single span#select2-country-container {
   transform: translateY(12px);
   color: #707480;
 }
-.karx-submit-form-default-single .select2-container--default .select2-selection--single .select2-selection__arrow {
+.ericson-submit-form-default-single .select2-container--default .select2-selection--single .select2-selection__arrow {
   top: 14px;
   right: 9px;
 }
 
-.karx-checkout-order-summery-box {
+.ericson-checkout-order-summery-box {
   border: 1px solid #dedede;
   border-radius: 5px;
   padding: 50px 40px;
   padding-bottom: 43px;
 }
 @media (max-width: 767px) {
-  .karx-checkout-order-summery-box {
+  .ericson-checkout-order-summery-box {
     padding: 30px 24px;
   }
 }
-.karx-checkout-order-summery-box-wrap {
+.ericson-checkout-order-summery-box-wrap {
   padding-bottom: 17px;
 }
-.karx-checkout-order-summery-box-pricing-list ul {
+.ericson-checkout-order-summery-box-pricing-list ul {
   margin-bottom: 0;
 }
-.karx-checkout-order-summery-box-pricing-list ul li {
+.ericson-checkout-order-summery-box-pricing-list ul li {
   overflow: hidden;
   list-style-type: none;
 }
-.karx-checkout-order-summery-box-pricing-list ul li:not(:last-child) {
+.ericson-checkout-order-summery-box-pricing-list ul li:not(:last-child) {
   border-bottom: 1px solid #dedede;
   padding-bottom: 20px;
   margin-bottom: 17px;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.label {
+.ericson-checkout-order-summery-box-pricing-list ul li span.label {
   font-size: 16px;
   display: inline-block;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.label.total {
+.ericson-checkout-order-summery-box-pricing-list ul li span.label.total {
   font-weight: 500;
   color: #1a213e;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.price {
+.ericson-checkout-order-summery-box-pricing-list ul li span.price {
   font-size: 16px;
   float: right;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.price.flat {
-  color: #ff630e;
+.ericson-checkout-order-summery-box-pricing-list ul li span.price.flat {
+  color: #C71116;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.price.flat span {
+.ericson-checkout-order-summery-box-pricing-list ul li span.price.flat span {
   color: #707480;
 }
-.karx-checkout-order-summery-box-pricing-list ul li span.price.total {
+.ericson-checkout-order-summery-box-pricing-list ul li span.price.total {
   font-weight: 500;
   color: #1a213e;
 }
-.karx-checkout-order-summery-box-product {
+.ericson-checkout-order-summery-box-product {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -9461,113 +9468,113 @@ label {
   padding-bottom: 30px;
 }
 @media (max-width: 767px) {
-  .karx-checkout-order-summery-box-product {
+  .ericson-checkout-order-summery-box-product {
     display: block;
   }
 }
-.karx-checkout-order-summery-box-product:not(:first-child) {
+.ericson-checkout-order-summery-box-product:not(:first-child) {
   padding-top: 30px;
 }
-.karx-checkout-order-summery-box-product .left {
+.ericson-checkout-order-summery-box-product .left {
   display: flex;
   align-items: center;
   grid-gap: 29px;
 }
 @media (max-width: 767px) {
-  .karx-checkout-order-summery-box-product .left {
+  .ericson-checkout-order-summery-box-product .left {
     margin-bottom: 15px;
     grid-gap: 9px;
     flex-wrap: wrap;
   }
 }
-.karx-checkout-order-summery-box-product .left > * {
+.ericson-checkout-order-summery-box-product .left > * {
   flex: 0 0 auto;
 }
-.karx-checkout-order-summery-box-product .left .image {
+.ericson-checkout-order-summery-box-product .left .image {
   max-width: 53px;
 }
-.karx-checkout-order-summery-box-product .left .title-wrap span {
+.ericson-checkout-order-summery-box-product .left .title-wrap span {
   font-size: 16px;
 }
-.karx-checkout-order-summery-box-product .left .title-wrap .title {
+.ericson-checkout-order-summery-box-product .left .title-wrap .title {
   display: inline-block;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 0;
   margin-right: 8px;
 }
-.karx-checkout-order-summery-box-product .left .title-wrap .title a {
+.ericson-checkout-order-summery-box-product .left .title-wrap .title a {
   text-decoration: none;
 }
-.karx-checkout-order-summery-box-product .left .title-wrap .title a:hover {
-  color: #ff630e;
+.ericson-checkout-order-summery-box-product .left .title-wrap .title a:hover {
+  color: #C71116;
 }
 
-.karx-price {
+.ericson-price {
   font-size: 16px;
 }
 
-.karx-checkout-payment-info-box .accordion-collapse {
+.ericson-checkout-payment-info-box .accordion-collapse {
   padding-top: 9px;
 }
-.karx-checkout-payment-info-box p {
+.ericson-checkout-payment-info-box p {
   font-size: 16px;
   line-height: 26px;
   margin-bottom: 0;
 }
-.karx-checkout-payment-info-box .karx-checkout-payment-condition-text {
+.ericson-checkout-payment-info-box .ericson-checkout-payment-condition-text {
   font-size: 16px;
   line-height: 26px;
 }
-.karx-checkout-payment-info-box .karx-checkout-payment-condition-text a {
+.ericson-checkout-payment-info-box .ericson-checkout-payment-condition-text a {
   text-decoration: none;
   color: #1a213e;
   font-weight: 500;
 }
-.karx-checkout-payment-info-box .karx-checkout-payment-condition-text a:hover {
-  color: #ff630e;
+.ericson-checkout-payment-info-box .ericson-checkout-payment-condition-text a:hover {
+  color: #C71116;
 }
-.karx-checkout-payment-info-box .accordion {
+.ericson-checkout-payment-info-box .accordion {
   border-bottom: 1px solid #dedede;
 }
-.karx-checkout-payment-info-box .accordion button {
+.ericson-checkout-payment-info-box .accordion button {
   width: 100%;
   height: 60px;
   border-radius: 5px;
   background-color: #dedede;
   border: 1px solid #dedede;
-  color: #ff630e;
+  color: #C71116;
   text-align: left;
   padding: 0 20px;
 }
-.karx-checkout-payment-info-box .accordion button i {
+.ericson-checkout-payment-info-box .accordion button i {
   font-size: 25px;
   margin-right: 11px;
   vertical-align: middle;
   margin-top: -2px;
-  color: #ff630e;
+  color: #C71116;
 }
-.karx-checkout-payment-info-box .accordion button.collapsed {
+.ericson-checkout-payment-info-box .accordion button.collapsed {
   color: #1a213e;
   background: transparent;
   border: 1px solid #dedede;
 }
-.karx-checkout-payment-info-box .accordion button.collapsed i {
+.ericson-checkout-payment-info-box .accordion button.collapsed i {
   color: #1a213e;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-billing-details-space-right.pr-20 {
+  .ericson-billing-details-space-right.pr-20 {
     padding-right: 10px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-billing-details-space-right.pr-20 {
+  .ericson-billing-details-space-right.pr-20 {
     padding-right: 0;
   }
 }
 
-.karx-submit-form-default-single input[type=text], .karx-submit-form-default-single input[type=email], .karx-submit-form-default-single input[type=number] {
+.ericson-submit-form-default-single input[type=text], .ericson-submit-form-default-single input[type=email], .ericson-submit-form-default-single input[type=number] {
   width: 100%;
   height: 60px;
   border-radius: 5px;
@@ -9576,7 +9583,7 @@ label {
   border: 1px solid #dedede;
 }
 
-.karx-submit-form-default-single .karx-has-select-2 {
+.ericson-submit-form-default-single .ericson-has-select-2 {
   width: 100% !important;
   height: 60px;
   border-radius: 5px;
@@ -9587,19 +9594,19 @@ label {
   padding: 0 25px;
   font-size: 16px;
 }
-.karx-submit-form-default-single .karx-has-select-2 .list {
+.ericson-submit-form-default-single .ericson-has-select-2 .list {
   width: 100%;
 }
-.karx-submit-form-default-single .karx-has-select-2 .list ul li {
+.ericson-submit-form-default-single .ericson-has-select-2 .list ul li {
   width: 100%;
   height: 60px;
   line-height: 60px;
 }
-.karx-submit-form-default-single .karx-has-select-2 .option {
+.ericson-submit-form-default-single .ericson-has-select-2 .option {
   height: 60px;
   line-height: 60px;
 }
-.karx-submit-form-default-single .karx-has-select-2::after {
+.ericson-submit-form-default-single .ericson-has-select-2::after {
   border-bottom: 1px solid #707480;
   border-right: 1px solid #707480;
   height: 8px;
@@ -9607,37 +9614,37 @@ label {
   right: 25px;
 }
 
-.karx-submit-form-default-singlelabel {
+.ericson-submit-form-default-singlelabel {
   font-size: 16px;
   color: #1a213e;
   display: block;
   margin-bottom: 15px;
 }
-.karx-submit-form-default-singlelabel .condition {
+.ericson-submit-form-default-singlelabel .condition {
   font-size: 16px;
   color: #707480;
   display: block;
   padding-left: 25px;
   position: relative;
 }
-.karx-submit-form-default-singleinput .has-condition {
+.ericson-submit-form-default-singleinput .has-condition {
   display: none;
 }
 
-.karx-submit-form-default-single label.condition::before {
+.ericson-submit-form-default-single label.condition::before {
   position: absolute;
   left: 2px;
   top: 2px;
   transition: all 0.3s;
   font-family: "Font awesome 5 pro";
-  color: #ff630e;
+  color: #C71116;
   content: "\f00c";
   opacity: 0;
   visibility: hidden;
   font-size: 14px;
 }
 
-.karx-submit-form-default-single label.condition::after {
+.ericson-submit-form-default-single label.condition::after {
   position: absolute;
   left: 0;
   top: 3px;
@@ -9656,18 +9663,18 @@ label {
 31. Footer
 ******************************************************* 
 *************************************************************** */
-.karx-footer-area {
+.ericson-footer-area {
   background: #1a213e;
 }
 
-.karx-footer-top {
+.ericson-footer-top {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 60px 0px;
 }
 
-.karx-footer-brandactive .swiper-wrapper {
+.ericson-footer-brandactive .swiper-wrapper {
   align-items: center;
 }
 
@@ -9680,7 +9687,7 @@ label {
   width: 100%;
 }
 
-.karx-foote-info p {
+.ericson-foote-info p {
   font-size: 16px;
   color: #fff;
 }
@@ -9695,7 +9702,7 @@ label {
   }
 }
 
-.karx-footer-follow-link a {
+.ericson-footer-follow-link a {
   display: inline-block;
   color: #fff;
   font-size: 18px;
@@ -9708,11 +9715,11 @@ label {
   color: #1a213e;
   line-height: 45px;
 }
-.karx-footer-follow-link a:hover {
-  color: #FF630E;
+.ericson-footer-follow-link a:hover {
+  color: #C71116;
 }
 
-.karx-footer-widget-title {
+.ericson-footer-widget-title {
   font-size: 28px;
   color: #fff;
   position: relative;
@@ -9722,61 +9729,61 @@ label {
   line-height: 1;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-footer-widget-title {
+  .ericson-footer-widget-title {
     font-size: 24px;
   }
 }
-.karx-footer-widget-title:after {
+.ericson-footer-widget-title:after {
   position: absolute;
   left: 0;
   bottom: 0;
   width: 25%;
   height: 4px;
   content: "";
-  background-color: #ff630e;
+  background-color: #C71116;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .karx-footer-widget {
+  .ericson-footer-widget {
     padding-left: 0;
   }
 }
-.karx-footer-widget ul li {
+.ericson-footer-widget ul li {
   list-style: none;
   display: block;
 }
-.karx-footer-widget ul li a {
+.ericson-footer-widget ul li a {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
 }
-.karx-footer-widget ul li a:hover {
-  color: #ff630e;
+.ericson-footer-widget ul li a:hover {
+  color: #C71116;
 }
-.karx-footer-widget ul li:not(:last-child) {
+.ericson-footer-widget ul li:not(:last-child) {
   margin-bottom: 10px;
 }
-.karx-footer-widget p {
+.ericson-footer-widget p {
   color: #fff;
   font-size: 16px;
 }
-.karx-footer-widget p label {
+.ericson-footer-widget p label {
   display: block;
   color: #fff;
   font-weight: 700;
   margin-bottom: 0px;
 }
-.karx-footer-widget p a {
+.ericson-footer-widget p a {
   color: #fff;
 }
-.karx-footer-widget p a:hover {
-  color: #ff630e;
+.ericson-footer-widget p a:hover {
+  color: #C71116;
 }
-.karx-footer-widget button[type=submit] {
+.ericson-footer-widget button[type=submit] {
   height: 60px;
   padding: 0 30px;
   border: 0;
-  background-color: #ff630e;
+  background-color: #C71116;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -9784,21 +9791,21 @@ label {
   transition: 0.3s;
   font-weight: 500;
 }
-.karx-footer-widget button[type=submit] i {
+.ericson-footer-widget button[type=submit] i {
   display: inline-block;
   margin-right: 10px;
 }
-.karx-footer-widget button[type=submit]:hover {
+.ericson-footer-widget button[type=submit]:hover {
   background-color: #fff;
-  color: #ff630e;
+  color: #C71116;
 }
 
-.karx-footer-input-btn {
+.ericson-footer-input-btn {
   position: relative;
   z-index: 1;
   margin-bottom: 15px;
 }
-.karx-footer-input-btn input {
+.ericson-footer-input-btn input {
   height: 60px;
   width: 100%;
   padding: 0 25px;
@@ -9806,7 +9813,7 @@ label {
   padding-right: 60px;
   border-radius: 3px;
 }
-.karx-footer-input-btn i {
+.ericson-footer-input-btn i {
   height: 60px;
   width: 60px;
   position: absolute;
@@ -9814,43 +9821,43 @@ label {
   top: 0;
   text-align: center;
   line-height: 60px;
-  color: #ff630e;
+  color: #C71116;
 }
 
 .footer-copyright-border {
   border-top: 1px solid #4d4d4d;
 }
 
-.karx-copyright-text p {
+.ericson-copyright-text p {
   margin-bottom: 0;
   color: #fff;
   font-size: 16px;
 }
-.karx-copyright-text p a:hover {
-  color: #ff630e;
+.ericson-copyright-text p a:hover {
+  color: #C71116;
 }
 
-.karx-copyright-menu ul {
+.ericson-copyright-menu ul {
   list-style: none;
 }
-.karx-copyright-menu ul li {
+.ericson-copyright-menu ul li {
   display: inline-block;
   position: relative;
   z-index: 1;
 }
-.karx-copyright-menu ul li a {
+.ericson-copyright-menu ul li a {
   color: #fff;
   padding: 10px 0;
   display: inline-block;
 }
-.karx-copyright-menu ul li a:hover {
-  color: #ff630e;
+.ericson-copyright-menu ul li a:hover {
+  color: #C71116;
 }
-.karx-copyright-menu ul li:not(:first-child) {
+.ericson-copyright-menu ul li:not(:first-child) {
   margin-left: 15px;
   padding-left: 20px;
 }
-.karx-copyright-menu ul li:not(:first-child):before {
+.ericson-copyright-menu ul li:not(:first-child):before {
   position: absolute;
   left: 0;
   top: 50%;
@@ -9862,24 +9869,24 @@ label {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-foote-info.smpl-40 {
+  .ericson-foote-info.smpl-40 {
     padding-right: 40px;
   }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-footer-logo.text-center img {
+  .ericson-footer-logo.text-center img {
     max-width: 60%;
   }
 }
-.karx-footer-widget-address span i, .karx-footer-widget-address a i {
-  color: #ff630e;
+.ericson-footer-widget-address span i, .ericson-footer-widget-address a i {
+  color: #C71116;
   display: inline-block;
   margin-right: 10px;
   font-size: 18px;
 }
 
-.karx-footer-widget-address span, .karx-footer-widget-address a {
+.ericson-footer-widget-address span, .ericson-footer-widget-address a {
   font-size: 18px;
   color: #fff;
   display: flex;
@@ -9887,15 +9894,15 @@ label {
   margin-bottom: 10px;
 }
 
-.karx-footer-widget-address > a:last-child {
+.ericson-footer-widget-address > a:last-child {
   margin-bottom: 0;
 }
 
-.karx-footer-widget-address a:hover {
-  color: #ff630e;
+.ericson-footer-widget-address a:hover {
+  color: #C71116;
 }
 
-.karx-footer-widget-logo {
+.ericson-footer-widget-logo {
   display: inline-block;
   margin-bottom: 25px;
 }
@@ -9907,25 +9914,25 @@ label {
 }
 
 .footer-widget-about-info-social a:hover {
-  color: #ff630e;
+  color: #C71116;
 }
 
-.karx-footer-widget-openingtime {
+.ericson-footer-widget-openingtime {
   font-size: 18px;
 }
 
-.karx-footer-widget-openingtime .footer-widget-opentime-day {
-  color: #ff630e;
+.ericson-footer-widget-openingtime .footer-widget-opentime-day {
+  color: #C71116;
   display: inline-block;
   margin-right: 10px;
   text-transform: uppercase;
 }
 
-.karx-footer-widget-openingtime .footer-opentime {
+.ericson-footer-widget-openingtime .footer-opentime {
   color: #fff;
 }
 
-.karx-footer-widget-about-info > p {
+.ericson-footer-widget-about-info > p {
   font-size: 20px;
   line-height: 35px;
   margin-bottom: 20px;
@@ -9944,21 +9951,21 @@ label {
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-member-title-box.mr-80 {
+  .ericson-member-title-box.mr-80 {
     margin-right: 0;
   }
 }
 
-.karx-member-right {
+.ericson-member-right {
   margin-left: 70px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-member-right {
+  .ericson-member-right {
     margin-left: 40px;
   }
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-member-right {
+  .ericson-member-right {
     margin-left: 0;
   }
 }
@@ -9979,21 +9986,21 @@ label {
   margin-right: 10px;
 }
 
-.karx-faq-content-area {
+.ericson-faq-content-area {
   margin-right: 70px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .karx-faq-content-area {
+  .ericson-faq-content-area {
     margin-right: 40px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-faq-content-area {
+  .ericson-faq-content-area {
     margin-right: 20px;
   }
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-faq-content-area {
+  .ericson-faq-content-area {
     margin-right: 0px;
   }
 }
@@ -10035,13 +10042,13 @@ label {
   right: 20px;
 }
 
-.karx-faq-img-box {
+.ericson-faq-img-box {
   position: relative;
 }
-.karx-faq-img-box img {
+.ericson-faq-img-box img {
   object-fit: cover;
 }
-.karx-faq-img-box .img-overlay {
+.ericson-faq-img-box .img-overlay {
   position: absolute;
   top: 0px;
   left: 0;
@@ -10050,53 +10057,53 @@ label {
   background-color: rgba(26, 26, 26, 0.3);
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .karx-faq-img-box .img-overlay {
+  .ericson-faq-img-box .img-overlay {
     left: 0px;
   }
 }
 
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-member-map-box {
+  .ericson-member-map-box {
     margin-bottom: 30px;
   }
 }
-.karx-member-map-box iframe {
+.ericson-member-map-box iframe {
   border: none;
   height: 600px;
   width: 100%;
 }
 
-.karx-member-contact-form {
+.ericson-member-contact-form {
   background-color: #FAFAFA;
   padding: 50px 40px;
   margin-left: -100px;
   margin-top: 28px;
 }
 @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
-  .karx-member-contact-form {
+  .ericson-member-contact-form {
     margin-left: 0px;
     padding: 50px 25px;
   }
 }
 
-.karx-input-group-box {
+.ericson-input-group-box {
   border-bottom: 1px solid #e9e9e9;
   padding-bottom: 8px;
 }
-.karx-input-group-box input {
+.ericson-input-group-box input {
   border: none;
   background: transparent;
 }
-.karx-input-group-box textarea {
+.ericson-input-group-box textarea {
   border: none;
   background: transparent;
   height: 120px;
 }
-.karx-input-group-box .text-area-icon {
+.ericson-input-group-box .text-area-icon {
   margin-top: 10px;
 }
 
-.karx-member-check-box {
+.ericson-member-check-box {
   border-bottom: none;
 }
 
@@ -10108,7 +10115,7 @@ label {
   border-color: var(--primary-color);
 }
 
-.karx-member-details-btn {
+.ericson-member-details-btn {
   padding: 20px 30px;
   font-weight: 700;
   border-radius: 5px;
@@ -10126,12 +10133,12 @@ label {
   color: #fff;
   border: none;
 }
-.karx-member-details-btn:hover {
+.ericson-member-details-btn:hover {
   background-color: #000;
   border-color: #000;
 }
 
-.karx-input-group-box .form-control:focus {
+.ericson-input-group-box .form-control:focus {
   color: #212529;
   background-color: transparent;
   border-color: transparent;
@@ -10164,18 +10171,18 @@ label {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-market-progress-project.member-progress {
+  .ericson-market-progress-project.member-progress {
     margin-left: 0;
   }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .karx-market-progress-circle.member-progress-circle {
+  .ericson-market-progress-circle.member-progress-circle {
     margin-right: 15px;
   }
 }
 
-.karx-market-progress-title h5 {
+.ericson-market-progress-title h5 {
   font-size: 20px;
 }
 

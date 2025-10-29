@@ -31,8 +31,8 @@
 		/*------------------------------------
 		Slider
 		--------------------------------------*/
-		if (jQuery(".karx-slider-active").length > 0) {
-			let sliderActive1 = '.karx-slider-active';
+		if (jQuery(".ericson-slider-active").length > 0) {
+			let sliderActive1 = '.ericson-slider-active';
 			let sliderInit1 = new Swiper(sliderActive1, {
 				// Optional parameters
 				slidesPerView: 1,
@@ -48,7 +48,7 @@
 
 				// If we need pagination
 				pagination: {
-					el: ".karx-slider-dots",
+					el: ".ericson-slider-dots",
 					clickable: true,
 				},
 
@@ -178,9 +178,9 @@
 	}
 
 
-	// karx Testimonial
+	// ericson Testimonial
 	if (jQuery(".testimonial-slider-active").length > 0) {
-		let karxfooterbrand = new Swiper('.testimonial-slider-active', {
+		let ericsonfooterbrand = new Swiper('.testimonial-slider-active', {
 			slidesPerView: 3,
 			loop: true,
 			rtl: false,
@@ -218,7 +218,7 @@
 		});
 	}
 
-	let slider_thumb = new Swiper('.karx_testimonial_thumbs_active', {
+	let slider_thumb = new Swiper('.ericson_testimonial_thumbs_active', {
 		loop: true,
 		spaceBetween: 0,
 		slidesPerView: 3,
@@ -242,7 +242,7 @@
 			},
 		}
 	});
-	let slider3 = new Swiper('.karx_testimonial_message_active', {
+	let slider3 = new Swiper('.ericson_testimonial_message_active', {
 		loop: true,
 		spaceBetween: 0,
 		rtl: false,
@@ -252,8 +252,8 @@
 			crossFade: true
 		},
 		navigation: {
-			nextEl: ".karx-testimonial-2-slide-next",
-			prevEl: ".karx-testimonial-2-slide-prev",
+			nextEl: ".ericson-testimonial-2-slide-next",
+			prevEl: ".ericson-testimonial-2-slide-prev",
 		},
 		thumbs: {
 			swiper: slider_thumb,
@@ -261,7 +261,7 @@
 	});
 
 	// shop details active 
-	var singleShopDetailsActive = new Swiper(".karx-single-shop-details-active", {
+	var singleShopDetailsActive = new Swiper(".ericson-single-shop-details-active", {
 		loop: true,
 		spaceBetween: 0,
 		slidesPerView: 1,
@@ -269,7 +269,7 @@
 		autoplay: false,
 		watchSlidesProgress: true,
 	});
-	var singleShopDetailsControl = new Swiper(".karx-single-shop-details-control-active", {
+	var singleShopDetailsControl = new Swiper(".ericson-single-shop-details-control-active", {
 		loop: true,
 		spaceBetween: 15,
 		slidesPerView: 3,
@@ -304,16 +304,16 @@
 
 	
 
-	// karx footer brand
-	if (jQuery(".karx-service-active").length > 0) {
-		let karxfooterbrand = new Swiper('.karx-service-active', {
+	// ericson footer brand
+	if (jQuery(".ericson-service-active").length > 0) {
+		let ericsonfooterbrand = new Swiper('.ericson-service-active', {
 			slidesPerView: 1,
 			loop: true,
 			rtl: false,
 			infinite: true,
 			navigation: {
-				nextEl: ".karx-service-next",
-				prevEl: ".karx-service-prev",
+				nextEl: ".ericson-service-next",
+				prevEl: ".ericson-service-prev",
 			},
 			breakpoints: {
 				0: {
@@ -339,9 +339,9 @@
 		});
 	}
 
-	// karx footer brand
-	if (jQuery(".karx-footer-brandactive").length > 0) {
-		let karxfooterbrand = new Swiper('.karx-footer-brandactive', {
+	// ericson footer brand
+	if (jQuery(".ericson-footer-brandactive").length > 0) {
+		let ericsonfooterbrand = new Swiper('.ericson-footer-brandactive', {
 			slidesPerView: 4,
 			loop: true,
 			rtl: false,
@@ -371,9 +371,9 @@
 		});
 	}
 
-	// karx popular slider area
+	// ericson popular slider area
 	if (jQuery(".popular-slider-body-area").length > 0) {
-		let karxfooterbrand = new Swiper('.popular-slider-body-area', {
+		let ericsonfooterbrand = new Swiper('.popular-slider-body-area', {
 			slidesPerView: 3,
 			loop: true,
 			rtl: false,
@@ -426,9 +426,9 @@
 	}
 
 	// isotop
-	if (jQuery(".karx-gallery-items-area").length > 0) {
-		$('.karx-gallery-items-area .filter-grid').imagesLoaded(function () {
-			let $grid = $('.karx-gallery-items-area .filter-grid').isotope({
+	if (jQuery(".ericson-gallery-items-area").length > 0) {
+		$('.ericson-gallery-items-area .filter-grid').imagesLoaded(function () {
+			let $grid = $('.ericson-gallery-items-area .filter-grid').isotope({
 				itemSelector: '.grid-item',
 				percentPosition: false,
 				layout: 'masonry',
@@ -480,7 +480,7 @@
 		type: 'iframe'
 	});
 
-	$('.karx-lan select, .karx-top-lan-wrapper select, .karx-has-select, .product-shorting-inner select, .karx-online-form-body select').niceSelect();
+	$('.ericson-lan select, .ericson-top-lan-wrapper select, .ericson-has-select, .product-shorting-inner select, .ericson-online-form-body select').niceSelect();
 	// data background
 	$("[data-background").each(function () {
 		$(this).css("background-image", "url(" + $(this).attr("data-background") + ") ")
@@ -548,13 +548,13 @@
 	var productQuantity = 1;
 
 	// quantity form 
-	$('.karx-shop-details-content-quantity-box .plus').on('click', function () {
-		var selectedInput = $(this).closest('.karx-shop-details-content-quantity-box').find('input');
+	$('.ericson-shop-details-content-quantity-box .plus').on('click', function () {
+		var selectedInput = $(this).closest('.ericson-shop-details-content-quantity-box').find('input');
 		productQuantity += 1;
 		selectedInput.attr('value', productQuantity);
 	});
-	$('.karx-shop-details-content-quantity-box .minus').on('click', function () {
-		var selectedInput = $(this).closest('.karx-shop-details-content-quantity-box').find('input');
+	$('.ericson-shop-details-content-quantity-box .minus').on('click', function () {
+		var selectedInput = $(this).closest('.ericson-shop-details-content-quantity-box').find('input');
 		productQuantity -= 1;
 		if (productQuantity < 1) {
 			productQuantity = 1;
