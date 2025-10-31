@@ -1,53 +1,6 @@
 /*
 ************
 *************************
-
-   Template Name: Cinkes - Financial Business HTML5 Template
-   Description: Cinkes - Financial Business HTML5 Template. It is a modern Template and fits for all kind of Financial, Business, consulting etc website.
-   Author: _ThemePhi
-   Version: 1.0
-
------------------------------------------------------------------------------------
-
-CSS INDEX
-=================== 
-01. Common
-02. Header
-03. Hero
-04. Breadcrumb
-05. Feature
-06. About
-07. Top Service
-08. Special Service
-09. Market
-10. Get Free
-11. Our Product
-12. Price
-13. Member
-14. Work Time
-15. Our Project
-16. Testimonial
-17. Blog
-18. Blog Page
-19. Blog Details
-20. Section Title
-21. Back To Top
-22. Sidebar
-23. Special Services
-24. Services
-25. Our Gallery
-26. Portfolio
-27. Contact
-28. Shop Details
-29. Cart
-30. Checkout
-31. Footer
-
-******************************************************* 
-*************************************************************** */
-/*
-************
-*************************
 01. Common
 ******************************************************* 
 *************************************************************** */
@@ -1708,6 +1661,10 @@ input:focus::placeholder, textarea:focus::placeholder {
 *************************************************************** */
 i {
   display: inline-block;
+}
+
+.container-fluid heaer-costum-container {
+	background: white;
 }
 
 .ericson-pr-color {
@@ -4936,6 +4893,15 @@ New CSS
 
 .ericson-market-task-list {
   width: 100%;
+}
+
+.gform_confirmation_message_1 {
+    color: white !important;
+}
+
+.gform_validation_errors * {
+    color: white !important;
+    border: 1px solid white;
 }
 
 /*
